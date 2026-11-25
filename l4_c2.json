@@ -19037,7 +19037,7 @@
     "round_name": "School Round",
     "type": "dt",
     "topic": "Spelling - Vocabulary",
-    "question": "Complete the word: She do e s her homework after school.",
+    "question": "Complete the word: She doe_ her homework after school.",
     "answer": "s",
     "explanation": "Chủ ngữ số ít 'She' dùng 'does' ('does her homework')."
   },
@@ -19048,7 +19048,7 @@
     "round_name": "School Round",
     "type": "dt",
     "topic": "Spelling - Vocabulary",
-    "question": "Complete the word: I h a v _ PE on Fridays.",
+    "question": "Complete the word: I hav _ PE on Fridays.",
     "answer": "e",
     "explanation": "Chủ ngữ 'I' dùng 'have' ('have PE')."
   },
@@ -19059,7 +19059,7 @@
     "round_name": "School Round",
     "type": "dt",
     "topic": "Spelling - Vocabulary",
-    "question": "Complete the word: My best friend is from Bri t a i _.",
+    "question": "Complete the word: My best friend is from Bri tai_.",
     "answer": "n",
     "explanation": "Từ đúng là 'Britain' (nước Anh), chữ cái còn thiếu là 'n'."
   },
@@ -19070,9 +19070,9 @@
     "round_name": "School Round",
     "type": "dt",
     "topic": "Spelling - Vocabulary",
-    "question": "Complete the word: My bir t h _ day is in March.",
+    "question": "Complete the word: My birt_ day is in March.",
     "answer": "d",
-    "explanation": "Từ đúng là 'birthday' (sinh nhật), chữ cái còn thiếu là 'd'."
+    "explanation": "Từ đúng là 'birthday' (sinh nhật), chữ cái còn thiếu là 'h'."
   },
   {
     "id": "l4_c2_dt_0727",
@@ -39995,5 +39995,4982 @@
     ],
     "answer": "The weather was sunny yesterday.",
     "explanation": "Chuyên đề 37 Câu 98."
+  },
+    {
+    "id": "l4_c2_tn_1601",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "tn",
+    "topic": "Social Knowledge - World History",
+    "question": "Who was the first president of the United States?",
+    "options": [
+      "George Washington",
+      "John Adams",
+      "Abraham Lincoln",
+      "Thomas Jefferson"
+    ],
+    "answer": "George Washington",
+    "explanation": "George Washington là tổng thống đầu tiên của Hoa Kỳ."
+  },
+  {
+    "id": "l4_c2_tn_1602",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "tn",
+    "topic": "Social Knowledge - World History",
+    "question": "When did Christopher Columbus discover America?",
+    "options": [
+      "1492",
+      "1600",
+      "1519",
+      "1776"
+    ],
+    "answer": "1492",
+    "explanation": "Christopher Columbus tìm ra châu Mỹ vào năm 1492."
+  },
+  {
+    "id": "l4_c2_tn_1603",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "tn",
+    "topic": "Social Knowledge - World History",
+    "question": "Who was the first man to walk on the moon?",
+    "options": [
+      "Neil Armstrong",
+      "Yuri Gagarin",
+      "Buzz Aldrin",
+      "Alan Shepard"
+    ],
+    "answer": "Neil Armstrong",
+    "explanation": "Neil Armstrong là người đầu tiên đặt chân lên Mặt Trăng (năm 1969)."
+  },
+  {
+    "id": "l4_c2_tn_1604",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "tn",
+    "topic": "Social Knowledge - World History",
+    "question": "What year did the Titanic sink?",
+    "options": [
+      "1912",
+      "1920",
+      "1900",
+      "1899"
+    ],
+    "answer": "1912",
+    "explanation": "Tàu Titanic bị chìm vào năm 1912."
+  },
+  {
+    "id": "l4_c2_tn_1605",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "tn",
+    "topic": "Social Knowledge - Inventions",
+    "question": "Who invented the telephone?",
+    "options": [
+      "Alexander Graham Bell",
+      "Thomas Edison",
+      "Nikola Tesla",
+      "Albert Einstein"
+    ],
+    "answer": "Alexander Graham Bell",
+    "explanation": "Alexander Graham Bell là người phát minh ra điện thoại."
+  },
+  {
+    "id": "l4_c2_tn_1606",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "tn",
+    "topic": "Social Knowledge - World History",
+    "question": "Which country did Napoleon Bonaparte come from?",
+    "options": [
+      "France",
+      "Germany",
+      "Italy",
+      "Spain"
+    ],
+    "answer": "France",
+    "explanation": "Napoleon Bonaparte đến từ nước Pháp ('France')."
+  },
+  {
+    "id": "l4_c2_tn_1607",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "tn",
+    "topic": "Social Knowledge - World History",
+    "question": "What year did World War I begin?",
+    "options": [
+      "1914",
+      "1939",
+      "1912",
+      "1920"
+    ],
+    "answer": "1914",
+    "explanation": "Chiến tranh thế giới thứ nhất bùng nổ năm 1914."
+  },
+  {
+    "id": "l4_c2_tn_1608",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "tn",
+    "topic": "Social Knowledge - Science & Medicine",
+    "question": "Who discovered penicillin?",
+    "options": [
+      "Alexander Fleming",
+      "Marie Curie",
+      "Louis Pasteur",
+      "Albert Einstein"
+    ],
+    "answer": "Alexander Fleming",
+    "explanation": "Alexander Fleming phát minh ra thuốc kháng sinh penicillin."
+  },
+  {
+    "id": "l4_c2_tn_1609",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "tn",
+    "topic": "Social Knowledge - Astronomy",
+    "question": "What planet is known as the Red Planet?",
+    "options": [
+      "Mars",
+      "Venus",
+      "Jupiter",
+      "Saturn"
+    ],
+    "answer": "Mars",
+    "explanation": "Sao Hỏa ('Mars') được mệnh danh là Hành tinh Đỏ."
+  },
+  {
+    "id": "l4_c2_tn_1610",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "tn",
+    "topic": "Social Knowledge - Animals",
+    "question": "What is the largest animal on Earth?",
+    "options": [
+      "Blue whale",
+      "Elephant",
+      "Shark",
+      "Giraffe"
+    ],
+    "answer": "Blue whale",
+    "explanation": "Cá voi xanh ('Blue whale') là loài động vật lớn nhất trên Trái Đất."
+  },
+  {
+    "id": "l4_c2_tn_1611",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "tn",
+    "topic": "Social Knowledge - Plant Science",
+    "question": "What do plants need to make food through photosynthesis?",
+    "options": [
+      "Sunlight, water, and carbon dioxide",
+      "Sunlight, oxygen, and water",
+      "Carbon dioxide and oxygen",
+      "Water and soil"
+    ],
+    "answer": "Sunlight, water, and carbon dioxide",
+    "explanation": "Quang hợp cần ánh sáng Mặt Trời, nước và khí các-bô-níc."
+  },
+  {
+    "id": "l4_c2_tn_1612",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "tn",
+    "topic": "Social Knowledge - Human Body",
+    "question": "What gas do humans breathe in to survive?",
+    "options": [
+      "Oxygen",
+      "Nitrogen",
+      "Carbon dioxide",
+      "Hydrogen"
+    ],
+    "answer": "Oxygen",
+    "explanation": "Con người hít vào khí ô-xy ('Oxygen') để duy trì sự sống."
+  },
+  {
+    "id": "l4_c2_tn_1613",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "tn",
+    "topic": "Social Knowledge - Earth Science",
+    "question": "What is the main source of energy for the Earth?",
+    "options": [
+      "The Sun",
+      "The Moon",
+      "Water",
+      "Wind"
+    ],
+    "answer": "The Sun",
+    "explanation": "Mặt Trời ('The Sun') là nguồn cung cấp năng lượng chính cho Trái Đất."
+  },
+  {
+    "id": "l4_c2_tn_1614",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "tn",
+    "topic": "Social Knowledge - Plant Science",
+    "question": "What part of the plant absorbs water and minerals from the soil?",
+    "options": [
+      "Roots",
+      "Leaves",
+      "Stems",
+      "Flowers"
+    ],
+    "answer": "Roots",
+    "explanation": "Rễ cây ('Roots') hút nước và khoáng chất từ đất."
+  },
+  {
+    "id": "l4_c2_tn_1615",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "tn",
+    "topic": "Social Knowledge - Human Body",
+    "question": "How many bones are in the adult human body?",
+    "options": [
+      "206",
+      "250",
+      "205",
+      "300"
+    ],
+    "answer": "206",
+    "explanation": "Cơ thể người trưởng thành có 206 chiếc xương."
+  },
+  {
+    "id": "l4_c2_tn_1616",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "tn",
+    "topic": "Social Knowledge - Science",
+    "question": "What is the freezing point of water in Celsius?",
+    "options": [
+      "0°C",
+      "100°C",
+      "32°C",
+      "50°C"
+    ],
+    "answer": "0°C",
+    "explanation": "Nhiệt độ đóng băng của nước theo độ C là 0°C."
+  },
+  {
+    "id": "l4_c2_tn_1617",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "tn",
+    "topic": "Social Knowledge - Astronomy",
+    "question": "What is the closest planet to the Sun?",
+    "options": [
+      "Mercury",
+      "Earth",
+      "Venus",
+      "Mars"
+    ],
+    "answer": "Mercury",
+    "explanation": "Sao Thủy ('Mercury') là hành tinh gần Mặt Trời nhất."
+  },
+  {
+    "id": "l4_c2_tn_1618",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "tn",
+    "topic": "Social Knowledge - Animals",
+    "question": "What type of animal is a frog?",
+    "options": [
+      "Amphibian",
+      "Mammal",
+      "Reptile",
+      "Bird"
+    ],
+    "answer": "Amphibian",
+    "explanation": "Ếch thuộc lớp lưỡng cư ('Amphibian')."
+  },
+  {
+    "id": "l4_c2_tn_1619",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "tn",
+    "topic": "Social Knowledge - Human Body",
+    "question": "Which organ in the human body pumps blood?",
+    "options": [
+      "Heart",
+      "Brain",
+      "Lungs",
+      "Stomach"
+    ],
+    "answer": "Heart",
+    "explanation": "Tim ('Heart') bơm máu đi khắp cơ thể."
+  },
+  {
+    "id": "l4_c2_tn_1620",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "tn",
+    "topic": "Social Knowledge - Human Body",
+    "question": "Which is the largest organ in the human body?",
+    "options": [
+      "Skin",
+      "Brain",
+      "Liver",
+      "Lungs"
+    ],
+    "answer": "Skin",
+    "explanation": "Da ('Skin') là cơ quan lớn nhất của cơ thể người."
+  },
+  {
+    "id": "l4_c2_tn_1621",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "tn",
+    "topic": "Social Knowledge - Plant Science",
+    "question": "What do we call the process of turning solid water into liquid water?",
+    "options": [
+      "Melting",
+      "Freezing",
+      "Evaporation",
+      "Condensation"
+    ],
+    "answer": "Melting",
+    "explanation": "Quá trình nước rắn (đá) chuyển thành nước lỏng gọi là sự nóng chảy ('Melting')."
+  },
+  {
+    "id": "l4_c2_tn_1622",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "tn",
+    "topic": "Social Knowledge - Astronomy",
+    "question": "Which planet is known as the \"giant planet\"?",
+    "options": [
+      "Jupiter",
+      "Mars",
+      "Saturn",
+      "Earth"
+    ],
+    "answer": "Jupiter",
+    "explanation": "Sao Mộc ('Jupiter') được gọi là hành tinh khổng lồ."
+  },
+  {
+    "id": "l4_c2_tn_1623",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "tn",
+    "topic": "Social Knowledge - Earth Science",
+    "question": "What do we call the movement of air around the Earth?",
+    "options": [
+      "Wind",
+      "Water cycle",
+      "Weather",
+      "Ocean currents"
+    ],
+    "answer": "Wind",
+    "explanation": "Sự chuyển động của không khí quanh Trái Đất gọi là gió ('Wind')."
+  },
+  {
+    "id": "l4_c2_tn_1624",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "tn",
+    "topic": "Social Knowledge - World Geography",
+    "question": "Which ocean is the largest in the world?",
+    "options": [
+      "Pacific Ocean",
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Arctic Ocean"
+    ],
+    "answer": "Pacific Ocean",
+    "explanation": "Thái Bình Dương ('Pacific Ocean') là đại dương lớn nhất thế giới."
+  },
+  {
+    "id": "l4_c2_tn_1625",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "tn",
+    "topic": "Social Knowledge - World Geography",
+    "question": "What continent is known as the \"Dark Continent\"?",
+    "options": [
+      "Africa",
+      "Europe",
+      "Asia",
+      "Australia"
+    ],
+    "answer": "Africa",
+    "explanation": "Châu Phi ('Africa') từng được gọi là Lục địa Đen."
+  },
+  {
+    "id": "l4_c2_tn_1626",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "tn",
+    "topic": "Social Knowledge - World Culture",
+    "question": "What country is famous for its pyramids?",
+    "options": [
+      "Egypt",
+      "Greece",
+      "Mexico",
+      "China"
+    ],
+    "answer": "Egypt",
+    "explanation": "Ai Cập ('Egypt') nổi tiếng với các kim tự tháp."
+  },
+  {
+    "id": "l4_c2_tn_1627",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "tn",
+    "topic": "Social Knowledge - World Geography",
+    "question": "What is the longest river in the world?",
+    "options": [
+      "Nile River",
+      "Amazon River",
+      "Mississippi River",
+      "Yangtze River"
+    ],
+    "answer": "Nile River",
+    "explanation": "Sông Nile ('Nile River') là con sông dài nhất thế giới."
+  },
+  {
+    "id": "l4_c2_tn_1628",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "tn",
+    "topic": "Social Knowledge - Holidays",
+    "question": "What do you call the first day of May? – It’s ___________.",
+    "options": [
+      "May Day",
+      "Lucky Day",
+      "Father’s Day",
+      "Mother’s Day"
+    ],
+    "answer": "May Day",
+    "explanation": "Ngày Quốc tế Lao động 1/5 gọi là 'May Day'."
+  },
+  {
+    "id": "l4_c2_tn_1629",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "tn",
+    "topic": "Social Knowledge - World Geography",
+    "question": "What is the largest desert in the world?",
+    "options": [
+      "Sahara Desert",
+      "Gobi Desert",
+      "Arabian Desert",
+      "Kalahari Desert"
+    ],
+    "answer": "Sahara Desert",
+    "explanation": "Sa mạc Sahara là sa mạc nóng lớn nhất thế giới."
+  },
+  {
+    "id": "l4_c2_tn_1630",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "tn",
+    "topic": "Social Knowledge - World Geography",
+    "question": "Which country is home to Mount Everest?",
+    "options": [
+      "Nepal",
+      "China",
+      "India",
+      "Bhutan"
+    ],
+    "answer": "Nepal",
+    "explanation": "Đỉnh Everest nằm ở Nepal (trên biên giới Nepal - Trung Quốc)."
+  },
+  {
+    "id": "l4_c2_tn_1631",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "tn",
+    "topic": "Social Knowledge - World Geography",
+    "question": "Which continent is known for having the Amazon rainforest?",
+    "options": [
+      "South America",
+      "Africa",
+      "Asia",
+      "Australia"
+    ],
+    "answer": "South America",
+    "explanation": "Rừng mưa nhiệt đới Amazon nằm ở Nam Mỹ ('South America')."
+  },
+  {
+    "id": "l4_c2_tn_1632",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "tn",
+    "topic": "Social Knowledge - World Geography",
+    "question": "What is the smallest country in the world?",
+    "options": [
+      "Vatican City",
+      "Monaco",
+      "Nauru",
+      "San Marino"
+    ],
+    "answer": "Vatican City",
+    "explanation": "Thành Vatican ('Vatican City') là quốc gia nhỏ nhất thế giới."
+  },
+  {
+    "id": "l4_c2_tn_1633",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "tn",
+    "topic": "Social Knowledge - World Geography",
+    "question": "What is the largest island in the world?",
+    "options": [
+      "Greenland",
+      "Australia",
+      "New Guinea",
+      "Madagascar"
+    ],
+    "answer": "Greenland",
+    "explanation": "Greenland là hòn đảo lớn nhất thế giới."
+  },
+  {
+    "id": "l4_c2_tn_1634",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "tn",
+    "topic": "Social Knowledge - Space History",
+    "question": "Who was the first woman to fly in space?",
+    "options": [
+      "Valentina Tereshkova",
+      "Sally Ride",
+      "Amelia Earhart",
+      "Bessie Coleman"
+    ],
+    "answer": "Valentina Tereshkova",
+    "explanation": "Valentina Tereshkova (Liên Xô) là người phụ nữ đầu tiên bay vào vũ trụ (1963)."
+  },
+  {
+    "id": "l4_c2_tn_1635",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "tn",
+    "topic": "Social Knowledge - World History",
+    "question": "When was the Declaration of Independence signed in the United States?",
+    "options": [
+      "1776",
+      "1789",
+      "1800",
+      "1812"
+    ],
+    "answer": "1776",
+    "explanation": "Tuyên ngôn Độc lập Hoa Kỳ được ký năm 1776."
+  },
+  {
+    "id": "l4_c2_tn_1636",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "tn",
+    "topic": "Social Knowledge - World History",
+    "question": "In which year did World War II begin?",
+    "options": [
+      "1939",
+      "1941",
+      "1945",
+      "1935"
+    ],
+    "answer": "1939",
+    "explanation": "Chiến tranh thế giới thứ hai bắt đầu năm 1939."
+  },
+  {
+    "id": "l4_c2_tn_1637",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "tn",
+    "topic": "Social Knowledge - Astronomy",
+    "question": "What is the hottest planet in our solar system?",
+    "options": [
+      "Venus",
+      "Mars",
+      "Mercury",
+      "Jupiter"
+    ],
+    "answer": "Venus",
+    "explanation": "Sao Kim ('Venus') là hành tinh nóng nhất Hệ Mặt Trời."
+  },
+  {
+    "id": "l4_c2_tn_1638",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "tn",
+    "topic": "Social Knowledge - Science",
+    "question": "What is the process of turning liquid into gas called?",
+    "options": [
+      "Evaporation",
+      "Condensation",
+      "Freezing",
+      "Melting"
+    ],
+    "answer": "Evaporation",
+    "explanation": "Sự bay hơi ('Evaporation') là quá trình chất lỏng chuyển thành khí."
+  },
+  {
+    "id": "l4_c2_tn_1639",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "tn",
+    "topic": "Social Knowledge - Human Body",
+    "question": "What part of the human body controls thought, memory, and emotions?",
+    "options": [
+      "Brain",
+      "Heart",
+      "Lungs",
+      "Stomach"
+    ],
+    "answer": "Brain",
+    "explanation": "Não bộ ('Brain') điều khiển suy nghĩ, trí nhớ và cảm xúc."
+  },
+  {
+    "id": "l4_c2_tn_1640",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "tn",
+    "topic": "Social Knowledge - Animals",
+    "question": "What kind of animal is a penguin?",
+    "options": [
+      "Bird",
+      "Fish",
+      "Mammal",
+      "Reptile"
+    ],
+    "answer": "Bird",
+    "explanation": "Chim cánh cụt ('penguin') thuộc lớp chim ('Bird')."
+  },
+  {
+    "id": "l4_c2_tn_1641",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "tn",
+    "topic": "Social Knowledge - World Culture",
+    "question": "Which country is known as the \"Land of the Rising Sun\"?",
+    "options": [
+      "Japan",
+      "China",
+      "Thailand",
+      "South Korea"
+    ],
+    "answer": "Japan",
+    "explanation": "Nhật Bản ('Japan') được mệnh danh là Xứ sở Mặt Trời mọc."
+  },
+  {
+    "id": "l4_c2_tn_1642",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "tn",
+    "topic": "Social Knowledge - World Geography",
+    "question": "What is the name of the longest mountain range in the world?",
+    "options": [
+      "The Andes",
+      "The Himalayas",
+      "The Alps",
+      "The Rocky Mountains"
+    ],
+    "answer": "The Andes",
+    "explanation": "Dãy Andes ở Nam Mỹ là dãy núi lục địa dài nhất thế giới."
+  },
+  {
+    "id": "l4_c2_tn_1643",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "tn",
+    "topic": "Social Knowledge - Inventions",
+    "question": "Who is credited with inventing the light bulb?",
+    "options": [
+      "Thomas Edison",
+      "Alexander Graham Bell",
+      "Nikola Tesla",
+      "Benjamin Franklin"
+    ],
+    "answer": "Thomas Edison",
+    "explanation": "Thomas Edison được ghi nhận là người phát minh bóng đèn sợi đốt thương mại."
+  },
+  {
+    "id": "l4_c2_tn_1644",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "tn",
+    "topic": "Social Knowledge - Astronomy",
+    "question": "Which of the following is NOT a planet in our solar system?",
+    "options": [
+      "Pluto",
+      "Mars",
+      "Earth",
+      "Venus"
+    ],
+    "answer": "Pluto",
+    "explanation": "Sao Diêm Vương ('Pluto') được xếp là hành tinh lùn, không phải hành tinh chính."
+  },
+  {
+    "id": "l4_c2_tn_1645",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "tn",
+    "topic": "Social Knowledge - Animals",
+    "question": "Which of these animals is a mammal?",
+    "options": [
+      "Dolphin",
+      "Fish",
+      "Snake",
+      "Bird"
+    ],
+    "answer": "Dolphin",
+    "explanation": "Cá heo ('Dolphin') là động vật có vú ('mammal')."
+  },
+  {
+    "id": "l4_c2_tn_1646",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "tn",
+    "topic": "Social Knowledge - Animals",
+    "question": "Which animal is known for its ability to change colors?",
+    "options": [
+      "Chameleon",
+      "Frog",
+      "Elephant",
+      "Giraffe"
+    ],
+    "answer": "Chameleon",
+    "explanation": "Tắc kè hoa ('Chameleon') nổi tiếng với khả năng đổi màu da."
+  },
+  {
+    "id": "l4_c2_tn_1647",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "tn",
+    "topic": "Social Knowledge - World Geography",
+    "question": "Which ocean is the smallest?",
+    "options": [
+      "Arctic Ocean",
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Pacific Ocean"
+    ],
+    "answer": "Arctic Ocean",
+    "explanation": "Bắc Băng Dương ('Arctic Ocean') là đại dương nhỏ nhất thế giới."
+  },
+  {
+    "id": "l4_c2_tn_1648",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "tn",
+    "topic": "Social Knowledge - Vietnam History",
+    "question": "Which dynasty first established the capital in Thăng Long, which later became Hà Nội?",
+    "options": [
+      "Lý Dynasty",
+      "Lê Dynasty",
+      "Trần Dynasty",
+      "Nguyễn Dynasty"
+    ],
+    "answer": "Lý Dynasty",
+    "explanation": "Nhà Lý (vua Lý Thái Tổ năm 1010) dời đô về Thăng Long."
+  },
+  {
+    "id": "l4_c2_tn_1649",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "tn",
+    "topic": "Social Knowledge - Vietnam History",
+    "question": "Which period saw the capital of Vietnam move from Thăng Long to Huế?",
+    "options": [
+      "The Nguyễn Dynasty",
+      "The early Lê Dynasty",
+      "The Trần Dynasty",
+      "The Đinh Dynasty"
+    ],
+    "answer": "The Nguyễn Dynasty",
+    "explanation": "Triều Nguyễn đặt kinh đô tại Phú Xuân (Huế)."
+  },
+  {
+    "id": "l4_c2_tn_1650",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "tn",
+    "topic": "Social Knowledge - Vietnam History",
+    "question": "What was the name of Vietnam during the period of the Hung Kings (c. 2879 BC - 258 BC)?",
+    "options": [
+      "Văn Lang",
+      "Âu Lạc",
+      "Đại Việt",
+      "Nam Việt"
+    ],
+    "answer": "Văn Lang",
+    "explanation": "Thời các Vua Hùng, quốc hiệu nước ta là Văn Lang."
+  },
+  {
+    "id": "l4_c2_tn_1651",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "tn",
+    "topic": "Social Knowledge - Vietnam History",
+    "question": "What was the name of Vietnam during the reign of the Lý Dynasty (11th - 13th centuries)?",
+    "options": [
+      "Đại Việt",
+      "An Nam",
+      "Việt Nam",
+      "Nam Việt"
+    ],
+    "answer": "Đại Việt",
+    "explanation": "Năm 1054, vua Lý Thánh Tông đặt quốc hiệu là Đại Việt."
+  },
+  {
+    "id": "l4_c2_tn_1652",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "tn",
+    "topic": "Social Knowledge - Vietnam History",
+    "question": "What was the major event in Vietnam on September 2, 1945?",
+    "options": [
+      "Ho Chi Minh's Declaration of Independence",
+      "The Battle of Dien Bien Phu",
+      "The Tet Offensive",
+      "The signing of the Geneva Accords"
+    ],
+    "answer": "Ho Chi Minh's Declaration of Independence",
+    "explanation": "Ngày 2/9/1945, Chủ tịch Hồ Chí Minh đọc Tuyên ngôn Độc lập."
+  },
+  {
+    "id": "l4_c2_tn_1653",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "tn",
+    "topic": "Social Knowledge - Vietnam History",
+    "question": "Which Vietnamese leader was known for the slogan “Nothing is more precious than independence and freedom”?",
+    "options": [
+      "Ho Chi Minh",
+      "General Giap",
+      "Bao Dai",
+      "Ngo Quyen"
+    ],
+    "answer": "Ho Chi Minh",
+    "explanation": "Chủ tịch Hồ Chí Minh nêu chân lý 'Không có gì quý hơn độc lập, tự do'."
+  },
+  {
+    "id": "l4_c2_tn_1654",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "tn",
+    "topic": "Social Knowledge - Vietnam History",
+    "question": "What is the significance of the year 938 in Vietnamese history?",
+    "options": [
+      "The Battle of Bach Dang River",
+      "The founding of the Tran Dynasty",
+      "The Declaration of Independence",
+      "The founding of the Le Dynasty"
+    ],
+    "answer": "The Battle of Bach Dang River",
+    "explanation": "Năm 938 diễn ra chiến thắng Bạch Đằng lẫy lừng của Ngô Quyền."
+  },
+  {
+    "id": "l4_c2_tn_1655",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "tn",
+    "topic": "Social Knowledge - Vietnam History",
+    "question": "Which famous Vietnamese general led the defeat of the French at Dien Bien Phu?",
+    "options": [
+      "General Vo Nguyen Giap",
+      "General Ngo Quyen",
+      "General Tran Hung Dao",
+      "General Ly Thuong Kiet"
+    ],
+    "answer": "General Vo Nguyen Giap",
+    "explanation": "Đại tướng Võ Nguyên Giáp chỉ huy chiến thắng Điện Biên Phủ (1954)."
+  },
+  {
+    "id": "l4_c2_tn_1656",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "tn",
+    "topic": "Social Knowledge - Vietnam History",
+    "question": "Which of the following is a Vietnamese national hero who led the resistance against the Chinese in the 1st century?",
+    "options": [
+      "Trung Trac",
+      "Le Loi",
+      "Tran Hung Dao",
+      "General Giap"
+    ],
+    "answer": "Trung Trac",
+    "explanation": "Hai Bà Trưng (Trưng Trắc, Trưng Nhị) lãnh đạo khởi nghĩa chống quân Hán thế kỷ I."
+  },
+  {
+    "id": "l4_c2_tn_1657",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "tn",
+    "topic": "Social Knowledge - Vietnam History",
+    "question": "Which battle in 1288 was a victory for Vietnam over the Mongol Empire?",
+    "options": [
+      "Battle of Bach Dang",
+      "Battle of Dien Bien Phu",
+      "Battle of Hue",
+      "Battle of Quang Tri"
+    ],
+    "answer": "Battle of Bach Dang",
+    "explanation": "Trận Bạch Đằng năm 1288 đánh tan quân Nguyên Mông."
+  },
+  {
+    "id": "l4_c2_tn_1658",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "tn",
+    "topic": "Social Knowledge - Vietnam History",
+    "question": "What year did the August Revolution take place in Vietnam?",
+    "options": [
+      "1945",
+      "1930",
+      "1954",
+      "1960"
+    ],
+    "answer": "1945",
+    "explanation": "Cách mạng Tháng Tám thành công vào năm 1945."
+  },
+  {
+    "id": "l4_c2_tn_1659",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "tn",
+    "topic": "Social Knowledge - Vietnam History",
+    "question": "Which famous lake is located in the center of Hanoi?",
+    "options": [
+      "Hoan Kiem Lake",
+      "West Lake",
+      "Bai Dinh Lake",
+      "Thac Ba Lake"
+    ],
+    "answer": "Hoan Kiem Lake",
+    "explanation": "Hồ Hoàn Kiếm ('Hoan Kiem Lake') nằm ở trung tâm Thủ đô Hà Nội."
+  },
+  {
+    "id": "l4_c2_tn_1660",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "tn",
+    "topic": "Social Knowledge - Vietnam History",
+    "question": "Which emperor built the One Pillar Pagoda in Hanoi?",
+    "options": [
+      "Ly Thai To",
+      "Le Thanh Tong",
+      "Ly Nam De",
+      "Gia Long"
+    ],
+    "answer": "Ly Thai To",
+    "explanation": "Theo tài liệu ôn tập IOE (và triều Lý - Lý Thái Tông), Chùa Một Cột gắn với triều Lý."
+  },
+  {
+    "id": "l4_c2_tn_1661",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "tn",
+    "topic": "Social Knowledge - Capitals",
+    "question": "What is the capital of the United States?",
+    "options": [
+      "Washington D.C.",
+      "New York",
+      "Los Angeles",
+      "Chicago"
+    ],
+    "answer": "Washington D.C.",
+    "explanation": "Thủ đô của Hoa Kỳ là Washington D.C."
+  },
+  {
+    "id": "l4_c2_tn_1662",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "tn",
+    "topic": "Social Knowledge - Capitals",
+    "question": "What is the capital of Australia?",
+    "options": [
+      "Canberra",
+      "Sydney",
+      "Melbourne",
+      "Brisbane"
+    ],
+    "answer": "Canberra",
+    "explanation": "Thủ đô của nước Úc là Canberra (không phải Sydney)."
+  },
+  {
+    "id": "l4_c2_tn_1663",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "tn",
+    "topic": "Social Knowledge - Capitals",
+    "question": "What is the capital of Canada?",
+    "options": [
+      "Ottawa",
+      "Toronto",
+      "Vancouver",
+      "Montreal"
+    ],
+    "answer": "Ottawa",
+    "explanation": "Thủ đô của Canada là Ottawa."
+  },
+  {
+    "id": "l4_c2_tn_1664",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "tn",
+    "topic": "Social Knowledge - Capitals",
+    "question": "What is the capital of Brazil?",
+    "options": [
+      "Brasília",
+      "Sao Paulo",
+      "Rio de Janeiro",
+      "Fortaleza"
+    ],
+    "answer": "Brasília",
+    "explanation": "Thủ đô của Brazil là Brasília."
+  },
+  {
+    "id": "l4_c2_tn_1665",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "tn",
+    "topic": "Social Knowledge - National Days",
+    "question": "When is Vietnam's Independence Day?",
+    "options": [
+      "September 2, 1945",
+      "April 30, 1975",
+      "May 19, 1945",
+      "January 1, 1954"
+    ],
+    "answer": "September 2, 1945",
+    "explanation": "Quốc khánh Việt Nam là ngày 2/9/1945."
+  },
+  {
+    "id": "l4_c2_tn_1666",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "tn",
+    "topic": "Social Knowledge - National Days",
+    "question": "When is France's Independence Day?",
+    "options": [
+      "July 14, 1789",
+      "May 1, 1945",
+      "May 14, 1946",
+      "July 5, 1830"
+    ],
+    "answer": "July 14, 1789",
+    "explanation": "Quốc khánh Pháp là ngày 14/7 (kỷ niệm phá ngục Bastille 1789)."
+  },
+  {
+    "id": "l4_c2_tn_1667",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "tn",
+    "topic": "Social Knowledge - IOE 2023-2024",
+    "question": "Bac Ninh province is _________ than Thai Nguyen province.",
+    "options": [
+      "smaller",
+      "larger",
+      "bigger",
+      "higher"
+    ],
+    "answer": "smaller",
+    "explanation": "Tỉnh Bắc Ninh có diện tích nhỏ hơn ('smaller') tỉnh Thái Nguyên."
+  },
+  {
+    "id": "l4_c2_tn_1668",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "tn",
+    "topic": "Social Knowledge - IOE 2023-2024",
+    "question": "Which sentence is FALSE about Halloween?",
+    "options": [
+      "People make Halloween lanterns watermelons",
+      "Halloween is on 31st October.",
+      "Children play trick-or-treat.",
+      "Black cats may bring bad luck."
+    ],
+    "answer": "People make Halloween lanterns watermelons",
+    "explanation": "Đèn lồng Halloween làm từ quả bí ngô (pumpkins), không phải dưa hấu (watermelons)."
+  },
+  {
+    "id": "l4_c2_tn_1669",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "tn",
+    "topic": "Social Knowledge - IOE 2023-2024",
+    "question": "Which sentence is FALSE about Tet holiday?",
+    "options": [
+      "Mooncakes are popular at Tet holiday.",
+      "Tet holiday is usually in January or February.",
+      "Students don’t go to school at Tet.",
+      "Children receive lucky money from their parents."
+    ],
+    "answer": "Mooncakes are popular at Tet holiday.",
+    "explanation": "Bánh trung thu ('Mooncakes') phổ biến vào Tết Trung thu, không phải Tết Nguyên đán."
+  },
+  {
+    "id": "l4_c2_tn_1670",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "tn",
+    "topic": "Social Knowledge - IOE 2023-2024",
+    "question": "Five sandwiches cost 30,000 dong. How much does Mary have to pay for 60 sandwiches?",
+    "options": [
+      "360,000 dong",
+      "480,000 dong",
+      "180,000 dong",
+      "300,000 dong"
+    ],
+    "answer": "360,000 dong",
+    "explanation": "60 gấp 5 là 12 lần -> 30,000 x 12 = 360,000 đồng."
+  },
+  {
+    "id": "l4_c2_noi_1671",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "noi",
+    "topic": "Social NOI 1 - Capitals 1",
+    "question": "Match each country with its capital city.",
+    "left_items": [
+      {
+        "key": "A",
+        "text": "United States"
+      },
+      {
+        "key": "B",
+        "text": "United Kingdom"
+      },
+      {
+        "key": "C",
+        "text": "France"
+      },
+      {
+        "key": "D",
+        "text": "Germany"
+      }
+    ],
+    "right_items": [
+      {
+        "key": "1",
+        "text": "Paris"
+      },
+      {
+        "key": "2",
+        "text": "Washington D.C."
+      },
+      {
+        "key": "3",
+        "text": "Berlin"
+      },
+      {
+        "key": "4",
+        "text": "London"
+      }
+    ],
+    "answer_pairs": [
+      {
+        "left": "A",
+        "right": "2"
+      },
+      {
+        "left": "B",
+        "right": "4"
+      },
+      {
+        "left": "C",
+        "right": "1"
+      },
+      {
+        "left": "D",
+        "right": "3"
+      }
+    ],
+    "explanation": "Ghép quốc gia với thủ đô tương ứng."
+  },
+  {
+    "id": "l4_c2_noi_1672",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "noi",
+    "topic": "Social NOI 2 - Capitals 2",
+    "question": "Match each country with its capital city.",
+    "left_items": [
+      {
+        "key": "A",
+        "text": "Japan"
+      },
+      {
+        "key": "B",
+        "text": "China"
+      },
+      {
+        "key": "C",
+        "text": "South Korea"
+      },
+      {
+        "key": "D",
+        "text": "India"
+      }
+    ],
+    "right_items": [
+      {
+        "key": "1",
+        "text": "Seoul"
+      },
+      {
+        "key": "2",
+        "text": "Tokyo"
+      },
+      {
+        "key": "3",
+        "text": "Delhi"
+      },
+      {
+        "key": "4",
+        "text": "Beijing"
+      }
+    ],
+    "answer_pairs": [
+      {
+        "left": "A",
+        "right": "2"
+      },
+      {
+        "left": "B",
+        "right": "4"
+      },
+      {
+        "left": "C",
+        "right": "1"
+      },
+      {
+        "left": "D",
+        "right": "3"
+      }
+    ],
+    "explanation": "Ghép quốc gia châu Á với thủ đô tương ứng."
+  },
+  {
+    "id": "l4_c2_noi_1673",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "noi",
+    "topic": "Social NOI 3 - Capitals 3",
+    "question": "Match each Southeast Asian country with its capital city.",
+    "left_items": [
+      {
+        "key": "A",
+        "text": "Thailand"
+      },
+      {
+        "key": "B",
+        "text": "Malaysia"
+      },
+      {
+        "key": "C",
+        "text": "Indonesia"
+      },
+      {
+        "key": "D",
+        "text": "Laos"
+      }
+    ],
+    "right_items": [
+      {
+        "key": "1",
+        "text": "Jakarta"
+      },
+      {
+        "key": "2",
+        "text": "Bangkok"
+      },
+      {
+        "key": "3",
+        "text": "Vientiane"
+      },
+      {
+        "key": "4",
+        "text": "Kuala Lumpur"
+      }
+    ],
+    "answer_pairs": [
+      {
+        "left": "A",
+        "right": "2"
+      },
+      {
+        "left": "B",
+        "right": "4"
+      },
+      {
+        "left": "C",
+        "right": "1"
+      },
+      {
+        "left": "D",
+        "right": "3"
+      }
+    ],
+    "explanation": "Ghép quốc gia Đông Nam Á với thủ đô tương ứng."
+  },
+  {
+    "id": "l4_c2_noi_1674",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "noi",
+    "topic": "Social NOI 4 - Capitals 4",
+    "question": "Match each country with its capital city.",
+    "left_items": [
+      {
+        "key": "A",
+        "text": "Canada"
+      },
+      {
+        "key": "B",
+        "text": "Brazil"
+      },
+      {
+        "key": "C",
+        "text": "Argentina"
+      },
+      {
+        "key": "D",
+        "text": "Australia"
+      }
+    ],
+    "right_items": [
+      {
+        "key": "1",
+        "text": "Buenos Aires"
+      },
+      {
+        "key": "2",
+        "text": "Ottawa"
+      },
+      {
+        "key": "3",
+        "text": "Canberra"
+      },
+      {
+        "key": "4",
+        "text": "Brasília"
+      }
+    ],
+    "answer_pairs": [
+      {
+        "left": "A",
+        "right": "2"
+      },
+      {
+        "left": "B",
+        "right": "4"
+      },
+      {
+        "left": "C",
+        "right": "1"
+      },
+      {
+        "left": "D",
+        "right": "3"
+      }
+    ],
+    "explanation": "Ghép quốc gia với thủ đô tương ứng."
+  },
+  {
+    "id": "l4_c2_noi_1675",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "noi",
+    "topic": "Social NOI 5 - Capitals 5",
+    "question": "Match each country with its capital city.",
+    "left_items": [
+      {
+        "key": "A",
+        "text": "Italy"
+      },
+      {
+        "key": "B",
+        "text": "Spain"
+      },
+      {
+        "key": "C",
+        "text": "Egypt"
+      },
+      {
+        "key": "D",
+        "text": "Mexico"
+      }
+    ],
+    "right_items": [
+      {
+        "key": "1",
+        "text": "Cairo"
+      },
+      {
+        "key": "2",
+        "text": "Rome"
+      },
+      {
+        "key": "3",
+        "text": "Mexico City"
+      },
+      {
+        "key": "4",
+        "text": "Madrid"
+      }
+    ],
+    "answer_pairs": [
+      {
+        "left": "A",
+        "right": "2"
+      },
+      {
+        "left": "B",
+        "right": "4"
+      },
+      {
+        "left": "C",
+        "right": "1"
+      },
+      {
+        "left": "D",
+        "right": "3"
+      }
+    ],
+    "explanation": "Ghép quốc gia với thủ đô tương ứng."
+  },
+  {
+    "id": "l4_c2_noi_1676",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "noi",
+    "topic": "Social NOI 6 - National Days 1",
+    "question": "Match each country with its National / Independence Day.",
+    "left_items": [
+      {
+        "key": "A",
+        "text": "Viet Nam"
+      },
+      {
+        "key": "B",
+        "text": "United States"
+      },
+      {
+        "key": "C",
+        "text": "France"
+      },
+      {
+        "key": "D",
+        "text": "China"
+      }
+    ],
+    "right_items": [
+      {
+        "key": "1",
+        "text": "July 14"
+      },
+      {
+        "key": "2",
+        "text": "September 2"
+      },
+      {
+        "key": "3",
+        "text": "October 1"
+      },
+      {
+        "key": "4",
+        "text": "July 4"
+      }
+    ],
+    "answer_pairs": [
+      {
+        "left": "A",
+        "right": "2"
+      },
+      {
+        "left": "B",
+        "right": "4"
+      },
+      {
+        "left": "C",
+        "right": "1"
+      },
+      {
+        "left": "D",
+        "right": "3"
+      }
+    ],
+    "explanation": "Ghép quốc gia với ngày Quốc khánh."
+  },
+  {
+    "id": "l4_c2_noi_1677",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "noi",
+    "topic": "Social NOI 7 - National Days 2",
+    "question": "Match each country with its National / Liberation Day.",
+    "left_items": [
+      {
+        "key": "A",
+        "text": "Indonesia"
+      },
+      {
+        "key": "B",
+        "text": "Singapore"
+      },
+      {
+        "key": "C",
+        "text": "South Korea"
+      },
+      {
+        "key": "D",
+        "text": "Cuba"
+      }
+    ],
+    "right_items": [
+      {
+        "key": "1",
+        "text": "August 15"
+      },
+      {
+        "key": "2",
+        "text": "August 17"
+      },
+      {
+        "key": "3",
+        "text": "January 1"
+      },
+      {
+        "key": "4",
+        "text": "August 9"
+      }
+    ],
+    "answer_pairs": [
+      {
+        "left": "A",
+        "right": "2"
+      },
+      {
+        "left": "B",
+        "right": "4"
+      },
+      {
+        "left": "C",
+        "right": "1"
+      },
+      {
+        "left": "D",
+        "right": "3"
+      }
+    ],
+    "explanation": "Ghép quốc gia với ngày Quốc khánh/Giải phóng."
+  },
+  {
+    "id": "l4_c2_noi_1678",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "noi",
+    "topic": "Social NOI 8 - Special Days",
+    "question": "Match each special day with its date.",
+    "left_items": [
+      {
+        "key": "A",
+        "text": "April Fool's Day"
+      },
+      {
+        "key": "B",
+        "text": "Earth Day"
+      },
+      {
+        "key": "C",
+        "text": "International Women's Day"
+      },
+      {
+        "key": "D",
+        "text": "Christmas"
+      }
+    ],
+    "right_items": [
+      {
+        "key": "1",
+        "text": "March 8"
+      },
+      {
+        "key": "2",
+        "text": "April 1"
+      },
+      {
+        "key": "3",
+        "text": "December 25"
+      },
+      {
+        "key": "4",
+        "text": "April 22"
+      }
+    ],
+    "answer_pairs": [
+      {
+        "left": "A",
+        "right": "2"
+      },
+      {
+        "left": "B",
+        "right": "4"
+      },
+      {
+        "left": "C",
+        "right": "1"
+      },
+      {
+        "left": "D",
+        "right": "3"
+      }
+    ],
+    "explanation": "Ghép ngày lễ/sự kiện quốc tế với ngày tháng tương ứng."
+  },
+  {
+    "id": "l4_c2_noi_1679",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "noi",
+    "topic": "Social NOI 9 - More Special Days",
+    "question": "Match each special day with its date.",
+    "left_items": [
+      {
+        "key": "A",
+        "text": "May Day"
+      },
+      {
+        "key": "B",
+        "text": "Halloween"
+      },
+      {
+        "key": "C",
+        "text": "International Day of Happiness"
+      },
+      {
+        "key": "D",
+        "text": "President Ho Chi Minh's Birthday"
+      }
+    ],
+    "right_items": [
+      {
+        "key": "1",
+        "text": "March 20"
+      },
+      {
+        "key": "2",
+        "text": "May 1"
+      },
+      {
+        "key": "3",
+        "text": "May 19"
+      },
+      {
+        "key": "4",
+        "text": "October 31"
+      }
+    ],
+    "answer_pairs": [
+      {
+        "left": "A",
+        "right": "2"
+      },
+      {
+        "left": "B",
+        "right": "4"
+      },
+      {
+        "left": "C",
+        "right": "1"
+      },
+      {
+        "left": "D",
+        "right": "3"
+      }
+    ],
+    "explanation": "Ghép ngày kỷ niệm với ngày tháng tương ứng."
+  },
+  {
+    "id": "l4_c2_noi_1680",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "noi",
+    "topic": "Social NOI 10 - Inventors & Discoverers",
+    "question": "Match each famous person with their achievement.",
+    "left_items": [
+      {
+        "key": "A",
+        "text": "George Washington"
+      },
+      {
+        "key": "B",
+        "text": "Christopher Columbus"
+      },
+      {
+        "key": "C",
+        "text": "Neil Armstrong"
+      },
+      {
+        "key": "D",
+        "text": "Valentina Tereshkova"
+      }
+    ],
+    "right_items": [
+      {
+        "key": "1",
+        "text": "first man to walk on the moon"
+      },
+      {
+        "key": "2",
+        "text": "first president of the US"
+      },
+      {
+        "key": "3",
+        "text": "first woman to fly in space"
+      },
+      {
+        "key": "4",
+        "text": "discovered America in 1492"
+      }
+    ],
+    "answer_pairs": [
+      {
+        "left": "A",
+        "right": "2"
+      },
+      {
+        "left": "B",
+        "right": "4"
+      },
+      {
+        "left": "C",
+        "right": "1"
+      },
+      {
+        "left": "D",
+        "right": "3"
+      }
+    ],
+    "explanation": "Ghép nhân vật lịch sử thế giới với sự kiện tiêu biểu."
+  },
+  {
+    "id": "l4_c2_noi_1681",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "noi",
+    "topic": "Social NOI 11 - Science Pioneers",
+    "question": "Match each scientist/inventor with their discovery or invention.",
+    "left_items": [
+      {
+        "key": "A",
+        "text": "Alexander Graham Bell"
+      },
+      {
+        "key": "B",
+        "text": "Thomas Edison"
+      },
+      {
+        "key": "C",
+        "text": "Alexander Fleming"
+      },
+      {
+        "key": "D",
+        "text": "Napoleon Bonaparte"
+      }
+    ],
+    "right_items": [
+      {
+        "key": "1",
+        "text": "discovered penicillin"
+      },
+      {
+        "key": "2",
+        "text": "invented the telephone"
+      },
+      {
+        "key": "3",
+        "text": "famous French leader"
+      },
+      {
+        "key": "4",
+        "text": "invented the light bulb"
+      }
+    ],
+    "answer_pairs": [
+      {
+        "left": "A",
+        "right": "2"
+      },
+      {
+        "left": "B",
+        "right": "4"
+      },
+      {
+        "left": "C",
+        "right": "1"
+      },
+      {
+        "left": "D",
+        "right": "3"
+      }
+    ],
+    "explanation": "Ghép nhà phát minh/lãnh tụ với thành tựu."
+  },
+  {
+    "id": "l4_c2_noi_1682",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "noi",
+    "topic": "Social NOI 12 - Solar System",
+    "question": "Match each planet/star with its description.",
+    "left_items": [
+      {
+        "key": "A",
+        "text": "Mars"
+      },
+      {
+        "key": "B",
+        "text": "Mercury"
+      },
+      {
+        "key": "C",
+        "text": "Venus"
+      },
+      {
+        "key": "D",
+        "text": "Jupiter"
+      }
+    ],
+    "right_items": [
+      {
+        "key": "1",
+        "text": "hottest planet in solar system"
+      },
+      {
+        "key": "2",
+        "text": "the Red Planet / 4th from Sun"
+      },
+      {
+        "key": "3",
+        "text": "largest / giant planet"
+      },
+      {
+        "key": "4",
+        "text": "closest planet to the Sun"
+      }
+    ],
+    "answer_pairs": [
+      {
+        "left": "A",
+        "right": "2"
+      },
+      {
+        "left": "B",
+        "right": "4"
+      },
+      {
+        "left": "C",
+        "right": "1"
+      },
+      {
+        "left": "D",
+        "right": "3"
+      }
+    ],
+    "explanation": "Ghép hành tinh trong Hệ Mặt Trời với đặc điểm."
+  },
+  {
+    "id": "l4_c2_noi_1683",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "noi",
+    "topic": "Social NOI 13 - Human Body",
+    "question": "Match each human organ/part with its function.",
+    "left_items": [
+      {
+        "key": "A",
+        "text": "Heart"
+      },
+      {
+        "key": "B",
+        "text": "Brain"
+      },
+      {
+        "key": "C",
+        "text": "Stomach"
+      },
+      {
+        "key": "D",
+        "text": "Skin"
+      }
+    ],
+    "right_items": [
+      {
+        "key": "1",
+        "text": "helps digest food"
+      },
+      {
+        "key": "2",
+        "text": "pumps blood"
+      },
+      {
+        "key": "3",
+        "text": "largest organ in human body"
+      },
+      {
+        "key": "4",
+        "text": "controls thought and memory"
+      }
+    ],
+    "answer_pairs": [
+      {
+        "left": "A",
+        "right": "2"
+      },
+      {
+        "left": "B",
+        "right": "4"
+      },
+      {
+        "left": "C",
+        "right": "1"
+      },
+      {
+        "left": "D",
+        "right": "3"
+      }
+    ],
+    "explanation": "Ghép cơ quan cơ thể người với chức năng/đặc điểm."
+  },
+  {
+    "id": "l4_c2_noi_1684",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "noi",
+    "topic": "Social NOI 14 - Plant Parts",
+    "question": "Match each plant part with its function.",
+    "left_items": [
+      {
+        "key": "A",
+        "text": "Roots"
+      },
+      {
+        "key": "B",
+        "text": "Leaves"
+      },
+      {
+        "key": "C",
+        "text": "Flower"
+      },
+      {
+        "key": "D",
+        "text": "Sunlight, water, CO2"
+      }
+    ],
+    "right_items": [
+      {
+        "key": "1",
+        "text": "produces seeds"
+      },
+      {
+        "key": "2",
+        "text": "absorb water and minerals"
+      },
+      {
+        "key": "3",
+        "text": "needed for photosynthesis"
+      },
+      {
+        "key": "4",
+        "text": "make food through photosynthesis"
+      }
+    ],
+    "answer_pairs": [
+      {
+        "left": "A",
+        "right": "2"
+      },
+      {
+        "left": "B",
+        "right": "4"
+      },
+      {
+        "left": "C",
+        "right": "1"
+      },
+      {
+        "left": "D",
+        "right": "3"
+      }
+    ],
+    "explanation": "Ghép bộ phận thực vật với chức năng."
+  },
+  {
+    "id": "l4_c2_noi_1685",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "noi",
+    "topic": "Social NOI 15 - Animals",
+    "question": "Match each animal with its group or feature.",
+    "left_items": [
+      {
+        "key": "A",
+        "text": "Blue whale"
+      },
+      {
+        "key": "B",
+        "text": "Elephant"
+      },
+      {
+        "key": "C",
+        "text": "Frog"
+      },
+      {
+        "key": "D",
+        "text": "Penguin"
+      }
+    ],
+    "right_items": [
+      {
+        "key": "1",
+        "text": "amphibian (spawns in spring)"
+      },
+      {
+        "key": "2",
+        "text": "largest animal on Earth"
+      },
+      {
+        "key": "3",
+        "text": "bird that cannot fly"
+      },
+      {
+        "key": "4",
+        "text": "largest land animal"
+      }
+    ],
+    "answer_pairs": [
+      {
+        "left": "A",
+        "right": "2"
+      },
+      {
+        "left": "B",
+        "right": "4"
+      },
+      {
+        "left": "C",
+        "right": "1"
+      },
+      {
+        "left": "D",
+        "right": "3"
+      }
+    ],
+    "explanation": "Ghép loài vật với đặc điểm sinh học."
+  },
+  {
+    "id": "l4_c2_noi_1686",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "noi",
+    "topic": "Social NOI 16 - More Animals",
+    "question": "Match each animal with its fact.",
+    "left_items": [
+      {
+        "key": "A",
+        "text": "Dolphin"
+      },
+      {
+        "key": "B",
+        "text": "Chameleon"
+      },
+      {
+        "key": "C",
+        "text": "Panda"
+      },
+      {
+        "key": "D",
+        "text": "Kangaroo"
+      }
+    ],
+    "right_items": [
+      {
+        "key": "1",
+        "text": "favourite food is bamboo"
+      },
+      {
+        "key": "2",
+        "text": "sea mammal"
+      },
+      {
+        "key": "3",
+        "text": "Australian national animal"
+      },
+      {
+        "key": "4",
+        "text": "can change colors"
+      }
+    ],
+    "answer_pairs": [
+      {
+        "left": "A",
+        "right": "2"
+      },
+      {
+        "left": "B",
+        "right": "4"
+      },
+      {
+        "left": "C",
+        "right": "1"
+      },
+      {
+        "left": "D",
+        "right": "3"
+      }
+    ],
+    "explanation": "Ghép loài vật với thông tin đặc trưng."
+  },
+  {
+    "id": "l4_c2_noi_1687",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "noi",
+    "topic": "Social NOI 17 - World Geography",
+    "question": "Match each geographical feature with its name.",
+    "left_items": [
+      {
+        "key": "A",
+        "text": "Largest ocean"
+      },
+      {
+        "key": "B",
+        "text": "Smallest ocean"
+      },
+      {
+        "key": "C",
+        "text": "Longest river"
+      },
+      {
+        "key": "D",
+        "text": "Largest hot desert"
+      }
+    ],
+    "right_items": [
+      {
+        "key": "1",
+        "text": "Nile River"
+      },
+      {
+        "key": "2",
+        "text": "Pacific Ocean"
+      },
+      {
+        "key": "3",
+        "text": "Sahara Desert"
+      },
+      {
+        "key": "4",
+        "text": "Arctic Ocean"
+      }
+    ],
+    "answer_pairs": [
+      {
+        "left": "A",
+        "right": "2"
+      },
+      {
+        "left": "B",
+        "right": "4"
+      },
+      {
+        "left": "C",
+        "right": "1"
+      },
+      {
+        "left": "D",
+        "right": "3"
+      }
+    ],
+    "explanation": "Ghép đặc điểm địa lý thế giới với tên gọi."
+  },
+  {
+    "id": "l4_c2_noi_1688",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "noi",
+    "topic": "Social NOI 18 - World Landmarks",
+    "question": "Match each landmark/symbol with its country.",
+    "left_items": [
+      {
+        "key": "A",
+        "text": "Eiffel Tower"
+      },
+      {
+        "key": "B",
+        "text": "Great Wall"
+      },
+      {
+        "key": "C",
+        "text": "Pyramids"
+      },
+      {
+        "key": "D",
+        "text": "Landmark 81"
+      }
+    ],
+    "right_items": [
+      {
+        "key": "1",
+        "text": "Egypt"
+      },
+      {
+        "key": "2",
+        "text": "France"
+      },
+      {
+        "key": "3",
+        "text": "Viet Nam"
+      },
+      {
+        "key": "4",
+        "text": "China"
+      }
+    ],
+    "answer_pairs": [
+      {
+        "left": "A",
+        "right": "2"
+      },
+      {
+        "left": "B",
+        "right": "4"
+      },
+      {
+        "left": "C",
+        "right": "1"
+      },
+      {
+        "left": "D",
+        "right": "3"
+      }
+    ],
+    "explanation": "Ghép công trình biểu tượng với quốc gia."
+  },
+  {
+    "id": "l4_c2_noi_1689",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "noi",
+    "topic": "Social NOI 19 - World Records",
+    "question": "Match each world geography fact with its answer.",
+    "left_items": [
+      {
+        "key": "A",
+        "text": "Highest mountain"
+      },
+      {
+        "key": "B",
+        "text": "Smallest country"
+      },
+      {
+        "key": "C",
+        "text": "Largest island"
+      },
+      {
+        "key": "D",
+        "text": "Longest mountain range"
+      }
+    ],
+    "right_items": [
+      {
+        "key": "1",
+        "text": "Greenland"
+      },
+      {
+        "key": "2",
+        "text": "Mount Everest (Nepal)"
+      },
+      {
+        "key": "3",
+        "text": "The Andes"
+      },
+      {
+        "key": "4",
+        "text": "Vatican City"
+      }
+    ],
+    "answer_pairs": [
+      {
+        "left": "A",
+        "right": "2"
+      },
+      {
+        "left": "B",
+        "right": "4"
+      },
+      {
+        "left": "C",
+        "right": "1"
+      },
+      {
+        "left": "D",
+        "right": "3"
+      }
+    ],
+    "explanation": "Ghép kỷ lục địa lý thế giới với đáp án."
+  },
+  {
+    "id": "l4_c2_noi_1690",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "noi",
+    "topic": "Social NOI 20 - Science Processes",
+    "question": "Match each science term with its meaning.",
+    "left_items": [
+      {
+        "key": "A",
+        "text": "Melting"
+      },
+      {
+        "key": "B",
+        "text": "Evaporation"
+      },
+      {
+        "key": "C",
+        "text": "Wind"
+      },
+      {
+        "key": "D",
+        "text": "0°C"
+      }
+    ],
+    "right_items": [
+      {
+        "key": "1",
+        "text": "movement of air around Earth"
+      },
+      {
+        "key": "2",
+        "text": "turning solid water into liquid"
+      },
+      {
+        "key": "3",
+        "text": "freezing point of water"
+      },
+      {
+        "key": "4",
+        "text": "turning liquid into gas"
+      }
+    ],
+    "answer_pairs": [
+      {
+        "left": "A",
+        "right": "2"
+      },
+      {
+        "left": "B",
+        "right": "4"
+      },
+      {
+        "left": "C",
+        "right": "1"
+      },
+      {
+        "left": "D",
+        "right": "3"
+      }
+    ],
+    "explanation": "Ghép thuật ngữ khoa học với định nghĩa."
+  },
+  {
+    "id": "l4_c2_noi_1691",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "noi",
+    "topic": "Social NOI 21 - Vietnam Dynasties & Names",
+    "question": "Match each Vietnamese period with its country name.",
+    "left_items": [
+      {
+        "key": "A",
+        "text": "Hung Kings period"
+      },
+      {
+        "key": "B",
+        "text": "Lý & Trần Dynasties"
+      },
+      {
+        "key": "C",
+        "text": "Nguyễn Dynasty (1802-1945)"
+      },
+      {
+        "key": "D",
+        "text": "Modern era (from 1945)"
+      }
+    ],
+    "right_items": [
+      {
+        "key": "1",
+        "text": "Đại Nam"
+      },
+      {
+        "key": "2",
+        "text": "Văn Lang"
+      },
+      {
+        "key": "3",
+        "text": "Việt Nam"
+      },
+      {
+        "key": "4",
+        "text": "Đại Việt"
+      }
+    ],
+    "answer_pairs": [
+      {
+        "left": "A",
+        "right": "2"
+      },
+      {
+        "left": "B",
+        "right": "4"
+      },
+      {
+        "left": "C",
+        "right": "1"
+      },
+      {
+        "left": "D",
+        "right": "3"
+      }
+    ],
+    "explanation": "Ghép thời kỳ lịch sử Việt Nam với quốc hiệu."
+  },
+  {
+    "id": "l4_c2_noi_1692",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "noi",
+    "topic": "Social NOI 22 - Vietnam Capitals",
+    "question": "Match each Vietnamese dynasty/period with its capital.",
+    "left_items": [
+      {
+        "key": "A",
+        "text": "Đinh Dynasty"
+      },
+      {
+        "key": "B",
+        "text": "Lý Dynasty (from 1010)"
+      },
+      {
+        "key": "C",
+        "text": "Nguyễn Dynasty"
+      },
+      {
+        "key": "D",
+        "text": "Socialist Republic of Viet Nam"
+      }
+    ],
+    "right_items": [
+      {
+        "key": "1",
+        "text": "Huế"
+      },
+      {
+        "key": "2",
+        "text": "Đại La / Hoa Lư"
+      },
+      {
+        "key": "3",
+        "text": "Hà Nội"
+      },
+      {
+        "key": "4",
+        "text": "Thăng Long"
+      }
+    ],
+    "answer_pairs": [
+      {
+        "left": "A",
+        "right": "2"
+      },
+      {
+        "left": "B",
+        "right": "4"
+      },
+      {
+        "left": "C",
+        "right": "1"
+      },
+      {
+        "left": "D",
+        "right": "3"
+      }
+    ],
+    "explanation": "Ghép triều đại Việt Nam với kinh đô."
+  },
+  {
+    "id": "l4_c2_noi_1693",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "noi",
+    "topic": "Social NOI 23 - Vietnam Historical Years",
+    "question": "Match each year with its major Vietnamese historical event.",
+    "left_items": [
+      {
+        "key": "A",
+        "text": "938"
+      },
+      {
+        "key": "B",
+        "text": "1010"
+      },
+      {
+        "key": "C",
+        "text": "1945"
+      },
+      {
+        "key": "D",
+        "text": "1954"
+      }
+    ],
+    "right_items": [
+      {
+        "key": "1",
+        "text": "Declaration of Independence (Sept 2)"
+      },
+      {
+        "key": "2",
+        "text": "Battle of Bach Dang River (Ngo Quyen)"
+      },
+      {
+        "key": "3",
+        "text": "Battle of Dien Bien Phu & Geneva Accords"
+      },
+      {
+        "key": "4",
+        "text": "Ly Thai To moved capital to Thang Long"
+      }
+    ],
+    "answer_pairs": [
+      {
+        "left": "A",
+        "right": "2"
+      },
+      {
+        "left": "B",
+        "right": "4"
+      },
+      {
+        "left": "C",
+        "right": "1"
+      },
+      {
+        "left": "D",
+        "right": "3"
+      }
+    ],
+    "explanation": "Ghép mốc năm lịch sử Việt Nam với sự kiện."
+  },
+  {
+    "id": "l4_c2_noi_1694",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "noi",
+    "topic": "Social NOI 24 - More Vietnam Years",
+    "question": "Match each year with its event in Vietnam.",
+    "left_items": [
+      {
+        "key": "A",
+        "text": "1288"
+      },
+      {
+        "key": "B",
+        "text": "1968"
+      },
+      {
+        "key": "C",
+        "text": "1975"
+      },
+      {
+        "key": "D",
+        "text": "1890"
+      }
+    ],
+    "right_items": [
+      {
+        "key": "1",
+        "text": "Reunification of Viet Nam"
+      },
+      {
+        "key": "2",
+        "text": "Battle of Bach Dang over Mongols"
+      },
+      {
+        "key": "3",
+        "text": "Birth year of President Ho Chi Minh"
+      },
+      {
+        "key": "4",
+        "text": "The Tet Offensive"
+      }
+    ],
+    "answer_pairs": [
+      {
+        "left": "A",
+        "right": "2"
+      },
+      {
+        "left": "B",
+        "right": "4"
+      },
+      {
+        "left": "C",
+        "right": "1"
+      },
+      {
+        "left": "D",
+        "right": "3"
+      }
+    ],
+    "explanation": "Ghép mốc năm lịch sử Việt Nam với sự kiện."
+  },
+  {
+    "id": "l4_c2_noi_1695",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "noi",
+    "topic": "Social NOI 25 - Vietnam Heroes",
+    "question": "Match each Vietnamese historical figure with their role.",
+    "left_items": [
+      {
+        "key": "A",
+        "text": "Trưng Trắc & Trưng Nhị"
+      },
+      {
+        "key": "B",
+        "text": "Ngô Quyền"
+      },
+      {
+        "key": "C",
+        "text": "Lý Thái Tổ"
+      },
+      {
+        "key": "D",
+        "text": "Võ Nguyên Giáp"
+      }
+    ],
+    "right_items": [
+      {
+        "key": "1",
+        "text": "founder of Ly Dynasty (1010)"
+      },
+      {
+        "key": "2",
+        "text": "led resistance against Han in 1st century"
+      },
+      {
+        "key": "3",
+        "text": "general at Dien Bien Phu"
+      },
+      {
+        "key": "4",
+        "text": "hero of Bach Dang victory in 938"
+      }
+    ],
+    "answer_pairs": [
+      {
+        "left": "A",
+        "right": "2"
+      },
+      {
+        "left": "B",
+        "right": "4"
+      },
+      {
+        "left": "C",
+        "right": "1"
+      },
+      {
+        "left": "D",
+        "right": "3"
+      }
+    ],
+    "explanation": "Ghép anh hùng dân tộc Việt Nam với công lao."
+  },
+  {
+    "id": "l4_c2_noi_1696",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "noi",
+    "topic": "Social NOI 26 - More Vietnam Figures",
+    "question": "Match each figure with their historical role.",
+    "left_items": [
+      {
+        "key": "A",
+        "text": "Hồ Chí Minh"
+      },
+      {
+        "key": "B",
+        "text": "Phan Bội Châu"
+      },
+      {
+        "key": "C",
+        "text": "Gia Long"
+      },
+      {
+        "key": "D",
+        "text": "Bảo Đại"
+      }
+    ],
+    "right_items": [
+      {
+        "key": "1",
+        "text": "established Nguyen capital in Hue"
+      },
+      {
+        "key": "2",
+        "text": "Father of Modern Viet Nam"
+      },
+      {
+        "key": "3",
+        "text": "last emperor of Viet Nam"
+      },
+      {
+        "key": "4",
+        "text": "leader of Dong Du movement"
+      }
+    ],
+    "answer_pairs": [
+      {
+        "left": "A",
+        "right": "2"
+      },
+      {
+        "left": "B",
+        "right": "4"
+      },
+      {
+        "left": "C",
+        "right": "1"
+      },
+      {
+        "left": "D",
+        "right": "3"
+      }
+    ],
+    "explanation": "Ghép nhân vật lịch sử Việt Nam với vai trò."
+  },
+  {
+    "id": "l4_c2_noi_1697",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "noi",
+    "topic": "Social NOI 27 - Time Abbreviations",
+    "question": "Match each time term with its meaning.",
+    "left_items": [
+      {
+        "key": "A",
+        "text": "AM"
+      },
+      {
+        "key": "B",
+        "text": "PM"
+      },
+      {
+        "key": "C",
+        "text": "24 hours"
+      },
+      {
+        "key": "D",
+        "text": "8:30 PM (last Sat of March)"
+      }
+    ],
+    "right_items": [
+      {
+        "key": "1",
+        "text": "one full day"
+      },
+      {
+        "key": "2",
+        "text": "Ante meridiem (before noon)"
+      },
+      {
+        "key": "3",
+        "text": "Earth Hour"
+      },
+      {
+        "key": "4",
+        "text": "Post meridiem (after noon)"
+      }
+    ],
+    "answer_pairs": [
+      {
+        "left": "A",
+        "right": "2"
+      },
+      {
+        "left": "B",
+        "right": "4"
+      },
+      {
+        "left": "C",
+        "right": "1"
+      },
+      {
+        "left": "D",
+        "right": "3"
+      }
+    ],
+    "explanation": "Ghép ký hiệu thời gian với ý nghĩa."
+  },
+  {
+    "id": "l4_c2_noi_1698",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "noi",
+    "topic": "Social NOI 28 - Famous Cities",
+    "question": "Match each city with its country.",
+    "left_items": [
+      {
+        "key": "A",
+        "text": "Chiang Rai"
+      },
+      {
+        "key": "B",
+        "text": "Vientiane"
+      },
+      {
+        "key": "C",
+        "text": "New York City"
+      },
+      {
+        "key": "D",
+        "text": "Hà Nội"
+      }
+    ],
+    "right_items": [
+      {
+        "key": "1",
+        "text": "United States"
+      },
+      {
+        "key": "2",
+        "text": "Thailand"
+      },
+      {
+        "key": "3",
+        "text": "Viet Nam"
+      },
+      {
+        "key": "4",
+        "text": "Laos"
+      }
+    ],
+    "answer_pairs": [
+      {
+        "left": "A",
+        "right": "2"
+      },
+      {
+        "left": "B",
+        "right": "4"
+      },
+      {
+        "left": "C",
+        "right": "1"
+      },
+      {
+        "left": "D",
+        "right": "3"
+      }
+    ],
+    "explanation": "Ghép thành phố với quốc gia."
+  },
+  {
+    "id": "l4_c2_noi_1699",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "noi",
+    "topic": "Social NOI 29 - Continents",
+    "question": "Match each country with its continent.",
+    "left_items": [
+      {
+        "key": "A",
+        "text": "Egypt"
+      },
+      {
+        "key": "B",
+        "text": "India"
+      },
+      {
+        "key": "C",
+        "text": "Brazil"
+      },
+      {
+        "key": "D",
+        "text": "Australia"
+      }
+    ],
+    "right_items": [
+      {
+        "key": "1",
+        "text": "South America"
+      },
+      {
+        "key": "2",
+        "text": "Africa"
+      },
+      {
+        "key": "3",
+        "text": "Oceania"
+      },
+      {
+        "key": "4",
+        "text": "Asia"
+      }
+    ],
+    "answer_pairs": [
+      {
+        "left": "A",
+        "right": "2"
+      },
+      {
+        "left": "B",
+        "right": "4"
+      },
+      {
+        "left": "C",
+        "right": "1"
+      },
+      {
+        "left": "D",
+        "right": "3"
+      }
+    ],
+    "explanation": "Ghép quốc gia với châu lục."
+  },
+  {
+    "id": "l4_c2_noi_1700",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "noi",
+    "topic": "Social NOI 30 - Food & Culture",
+    "question": "Match each food/symbol with its country or meaning.",
+    "left_items": [
+      {
+        "key": "A",
+        "text": "Sushi (raw fish & rice)"
+      },
+      {
+        "key": "B",
+        "text": "Soymilk"
+      },
+      {
+        "key": "C",
+        "text": "Dove"
+      },
+      {
+        "key": "D",
+        "text": "Rainbow"
+      }
+    ],
+    "right_items": [
+      {
+        "key": "1",
+        "text": "symbol of happiness and peace"
+      },
+      {
+        "key": "2",
+        "text": "Japan"
+      },
+      {
+        "key": "3",
+        "text": "sun shining through falling rain"
+      },
+      {
+        "key": "4",
+        "text": "made from soybean"
+      }
+    ],
+    "answer_pairs": [
+      {
+        "left": "A",
+        "right": "2"
+      },
+      {
+        "left": "B",
+        "right": "4"
+      },
+      {
+        "left": "C",
+        "right": "1"
+      },
+      {
+        "left": "D",
+        "right": "3"
+      }
+    ],
+    "explanation": "Ghép ẩm thực/biểu tượng với đặc điểm."
+  },
+  {
+    "id": "l4_c2_noi_1701",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "noi",
+    "topic": "Social NOI 31 - Vietnam Geography",
+    "question": "Match each Vietnamese landmark/province with its fact.",
+    "left_items": [
+      {
+        "key": "A",
+        "text": "Quảng Ninh Province"
+      },
+      {
+        "key": "B",
+        "text": "Temple of Literature"
+      },
+      {
+        "key": "C",
+        "text": "The Citadel"
+      },
+      {
+        "key": "D",
+        "text": "Bắc Ninh Province"
+      }
+    ],
+    "right_items": [
+      {
+        "key": "1",
+        "text": "famous attraction in Hue"
+      },
+      {
+        "key": "2",
+        "text": "mostly coal in Viet Nam"
+      },
+      {
+        "key": "3",
+        "text": "smaller than Thai Nguyen Province"
+      },
+      {
+        "key": "4",
+        "text": "located in Hanoi"
+      }
+    ],
+    "answer_pairs": [
+      {
+        "left": "A",
+        "right": "2"
+      },
+      {
+        "left": "B",
+        "right": "4"
+      },
+      {
+        "left": "C",
+        "right": "1"
+      },
+      {
+        "left": "D",
+        "right": "3"
+      }
+    ],
+    "explanation": "Ghép địa danh Việt Nam với thông tin địa lý."
+  },
+  {
+    "id": "l4_c2_noi_1702",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "noi",
+    "topic": "Social NOI 32 - Math Word Problems 1",
+    "question": "Match each math problem with its answer.",
+    "left_items": [
+      {
+        "key": "A",
+        "text": "90 - 5 x 10"
+      },
+      {
+        "key": "B",
+        "text": "Double of 10"
+      },
+      {
+        "key": "C",
+        "text": "258 cakes - 150 cakes"
+      },
+      {
+        "key": "D",
+        "text": "5 sandwiches = 30,000d -> 60 sandwiches"
+      }
+    ],
+    "right_items": [
+      {
+        "key": "1",
+        "text": "108 cakes"
+      },
+      {
+        "key": "2",
+        "text": "40 (forty)"
+      },
+      {
+        "key": "3",
+        "text": "360,000 dong"
+      },
+      {
+        "key": "4",
+        "text": "20 (twenty)"
+      }
+    ],
+    "answer_pairs": [
+      {
+        "left": "A",
+        "right": "2"
+      },
+      {
+        "left": "B",
+        "right": "4"
+      },
+      {
+        "left": "C",
+        "right": "1"
+      },
+      {
+        "left": "D",
+        "right": "3"
+      }
+    ],
+    "explanation": "Ghép bài toán đố tiếng Anh IOE với đáp án."
+  },
+  {
+    "id": "l4_c2_noi_1703",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "noi",
+    "topic": "Social NOI 33 - Math Word Problems 2",
+    "question": "Match each counting problem with its answer.",
+    "left_items": [
+      {
+        "key": "A",
+        "text": "Mary (3 blue) + Max (8 blue) balloons"
+      },
+      {
+        "key": "B",
+        "text": "Jenny (9 white) + Patrick (9 white) masks"
+      },
+      {
+        "key": "C",
+        "text": "Rabbits: 5 + 6 + 3"
+      },
+      {
+        "key": "D",
+        "text": "Bones in adult human body"
+      }
+    ],
+    "right_items": [
+      {
+        "key": "1",
+        "text": "14 (fourteen)"
+      },
+      {
+        "key": "2",
+        "text": "11 (eleven)"
+      },
+      {
+        "key": "3",
+        "text": "206"
+      },
+      {
+        "key": "4",
+        "text": "18 (eighteen)"
+      }
+    ],
+    "answer_pairs": [
+      {
+        "left": "A",
+        "right": "2"
+      },
+      {
+        "left": "B",
+        "right": "4"
+      },
+      {
+        "left": "C",
+        "right": "1"
+      },
+      {
+        "left": "D",
+        "right": "3"
+      }
+    ],
+    "explanation": "Ghép bài toán đếm tiếng Anh với đáp án."
+  },
+  {
+    "id": "l4_c2_noi_1704",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "noi",
+    "topic": "Social NOI 34 - Fairy Tales",
+    "question": "Match each fairy tale detail with its story.",
+    "left_items": [
+      {
+        "key": "A",
+        "text": "Hansel and Gretel"
+      },
+      {
+        "key": "B",
+        "text": "Poor woodcutter"
+      },
+      {
+        "key": "C",
+        "text": "Three little pigs"
+      },
+      {
+        "key": "D",
+        "text": "The Sun"
+      }
+    ],
+    "right_items": [
+      {
+        "key": "1",
+        "text": "old mother pig didn't have enough food"
+      },
+      {
+        "key": "2",
+        "text": "brother and sister in the woods"
+      },
+      {
+        "key": "3",
+        "text": "rises in the East and sets in the West"
+      },
+      {
+        "key": "4",
+        "text": "father of Hansel and Gretel"
+      }
+    ],
+    "answer_pairs": [
+      {
+        "left": "A",
+        "right": "2"
+      },
+      {
+        "left": "B",
+        "right": "4"
+      },
+      {
+        "left": "C",
+        "right": "1"
+      },
+      {
+        "left": "D",
+        "right": "3"
+      }
+    ],
+    "explanation": "Ghép chi tiết truyện cổ tích với tên truyện."
+  },
+  {
+    "id": "l4_c2_noi_1705",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "noi",
+    "topic": "Social NOI 35 - Earth & Sky",
+    "question": "Match each astronomical fact with its answer.",
+    "left_items": [
+      {
+        "key": "A",
+        "text": "Earth's orbit"
+      },
+      {
+        "key": "B",
+        "text": "The Sun"
+      },
+      {
+        "key": "C",
+        "text": "Solar energy"
+      },
+      {
+        "key": "D",
+        "text": "Sunrise direction"
+      }
+    ],
+    "right_items": [
+      {
+        "key": "1",
+        "text": "provided by the Sun"
+      },
+      {
+        "key": "2",
+        "text": "goes around the Sun"
+      },
+      {
+        "key": "3",
+        "text": "in the East"
+      },
+      {
+        "key": "4",
+        "text": "a star in the sky"
+      }
+    ],
+    "answer_pairs": [
+      {
+        "left": "A",
+        "right": "2"
+      },
+      {
+        "left": "B",
+        "right": "4"
+      },
+      {
+        "left": "C",
+        "right": "1"
+      },
+      {
+        "left": "D",
+        "right": "3"
+      }
+    ],
+    "explanation": "Ghép kiến thức thiên văn với đáp án."
+  },
+  {
+    "id": "l4_c2_noi_1706",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "noi",
+    "topic": "Social NOI 36 - Seasons & Weather",
+    "question": "Match each fact with its answer.",
+    "left_items": [
+      {
+        "key": "A",
+        "text": "Frogs usually spawn"
+      },
+      {
+        "key": "B",
+        "text": "School begins in Britain"
+      },
+      {
+        "key": "C",
+        "text": "Korea vs Indonesia"
+      },
+      {
+        "key": "D",
+        "text": "Sunset direction"
+      }
+    ],
+    "right_items": [
+      {
+        "key": "1",
+        "text": "Korea is colder"
+      },
+      {
+        "key": "2",
+        "text": "in Spring"
+      },
+      {
+        "key": "3",
+        "text": "in the West"
+      },
+      {
+        "key": "4",
+        "text": "in September"
+      }
+    ],
+    "answer_pairs": [
+      {
+        "left": "A",
+        "right": "2"
+      },
+      {
+        "left": "B",
+        "right": "4"
+      },
+      {
+        "left": "C",
+        "right": "1"
+      },
+      {
+        "left": "D",
+        "right": "3"
+      }
+    ],
+    "explanation": "Ghép kiến thức tự nhiên và đời sống với đáp án."
+  },
+  {
+    "id": "l4_c2_noi_1707",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "noi",
+    "topic": "Social NOI 37 - Healthy Food",
+    "question": "Match each item with its description.",
+    "left_items": [
+      {
+        "key": "A",
+        "text": "Carrots"
+      },
+      {
+        "key": "B",
+        "text": "Oxygen"
+      },
+      {
+        "key": "C",
+        "text": "Earth Hour activity"
+      },
+      {
+        "key": "D",
+        "text": "Nội Bài"
+      }
+    ],
+    "right_items": [
+      {
+        "key": "1",
+        "text": "turning off lights for 1 hour"
+      },
+      {
+        "key": "2",
+        "text": "vegetables with lots of vitamin"
+      },
+      {
+        "key": "3",
+        "text": "international airport in Hanoi"
+      },
+      {
+        "key": "4",
+        "text": "gas humans breathe in"
+      }
+    ],
+    "answer_pairs": [
+      {
+        "left": "A",
+        "right": "2"
+      },
+      {
+        "left": "B",
+        "right": "4"
+      },
+      {
+        "left": "C",
+        "right": "1"
+      },
+      {
+        "left": "D",
+        "right": "3"
+      }
+    ],
+    "explanation": "Ghép từ vựng với mô tả đúng."
+  },
+  {
+    "id": "l4_c2_noi_1708",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "noi",
+    "topic": "Social NOI 38 - Flags & Languages",
+    "question": "Match each country/flag with its language or feature.",
+    "left_items": [
+      {
+        "key": "A",
+        "text": "South Korea"
+      },
+      {
+        "key": "B",
+        "text": "Canada"
+      },
+      {
+        "key": "C",
+        "text": "Australia"
+      },
+      {
+        "key": "D",
+        "text": "Japan"
+      }
+    ],
+    "right_items": [
+      {
+        "key": "1",
+        "text": "Southern Cross stars & Union Jack"
+      },
+      {
+        "key": "2",
+        "text": "Korean language"
+      },
+      {
+        "key": "3",
+        "text": "Land of the Rising Sun"
+      },
+      {
+        "key": "4",
+        "text": "red maple leaf flag"
+      }
+    ],
+    "answer_pairs": [
+      {
+        "left": "A",
+        "right": "2"
+      },
+      {
+        "left": "B",
+        "right": "4"
+      },
+      {
+        "left": "C",
+        "right": "1"
+      },
+      {
+        "left": "D",
+        "right": "3"
+      }
+    ],
+    "explanation": "Ghép quốc gia với ngôn ngữ hoặc quốc kỳ."
+  },
+  {
+    "id": "l4_c2_noi_1709",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "noi",
+    "topic": "Social NOI 39 - Old Names of Hanoi",
+    "question": "Match each historical name with its explanation.",
+    "left_items": [
+      {
+        "key": "A",
+        "text": "Thăng Long"
+      },
+      {
+        "key": "B",
+        "text": "Cổ Loa"
+      },
+      {
+        "key": "C",
+        "text": "Đại La"
+      },
+      {
+        "key": "D",
+        "text": "Sài Gòn"
+      }
+    ],
+    "right_items": [
+      {
+        "key": "1",
+        "text": "former name of Thang Long"
+      },
+      {
+        "key": "2",
+        "text": "old name of Hanoi (from 1010)"
+      },
+      {
+        "key": "3",
+        "text": "former name of Ho Chi Minh City"
+      },
+      {
+        "key": "4",
+        "text": "ancient capital before Thang Long"
+      }
+    ],
+    "answer_pairs": [
+      {
+        "left": "A",
+        "right": "2"
+      },
+      {
+        "left": "B",
+        "right": "4"
+      },
+      {
+        "left": "C",
+        "right": "1"
+      },
+      {
+        "left": "D",
+        "right": "3"
+      }
+    ],
+    "explanation": "Ghép tên gọi lịch sử với giải thích."
+  },
+  {
+    "id": "l4_c2_noi_1710",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "noi",
+    "topic": "Social NOI 40 - Mixed Social Knowledge",
+    "question": "Match each question with its short answer.",
+    "left_items": [
+      {
+        "key": "A",
+        "text": "Where is Eiffel Tower?"
+      },
+      {
+        "key": "B",
+        "text": "Where is the Great Wall?"
+      },
+      {
+        "key": "C",
+        "text": "What is the capital of Spain?"
+      },
+      {
+        "key": "D",
+        "text": "What is the capital of Germany?"
+      }
+    ],
+    "right_items": [
+      {
+        "key": "1",
+        "text": "Madrid."
+      },
+      {
+        "key": "2",
+        "text": "In Paris, France."
+      },
+      {
+        "key": "3",
+        "text": "Berlin."
+      },
+      {
+        "key": "4",
+        "text": "In China."
+      }
+    ],
+    "answer_pairs": [
+      {
+        "left": "A",
+        "right": "2"
+      },
+      {
+        "left": "B",
+        "right": "4"
+      },
+      {
+        "left": "C",
+        "right": "1"
+      },
+      {
+        "left": "D",
+        "right": "3"
+      }
+    ],
+    "explanation": "Ghép câu hỏi kiến thức xã hội với câu trả lời."
+  },
+  {
+    "id": "l4_c2_dt_1711",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "dt",
+    "topic": "Social DT 1",
+    "question": "Fill in the blank with ONE word: George Washington was the first _______ of the United States.",
+    "answer": "president",
+    "explanation": "'president': tổng thống."
+  },
+  {
+    "id": "l4_c2_dt_1712",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "dt",
+    "topic": "Social DT 2",
+    "question": "Fill in the blank with ONE word: Neil Armstrong was the first man to walk on the _______.",
+    "answer": "moon",
+    "explanation": "'moon': Mặt Trăng."
+  },
+  {
+    "id": "l4_c2_dt_1713",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "dt",
+    "topic": "Social DT 3",
+    "question": "Fill in the blank with ONE word: Alexander Graham Bell invented the _______.",
+    "answer": "telephone",
+    "explanation": "'telephone': điện thoại."
+  },
+  {
+    "id": "l4_c2_dt_1714",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "dt",
+    "topic": "Social DT 4",
+    "question": "Fill in the blank with ONE word: Napoleon Bonaparte came from _______.",
+    "answer": "France",
+    "explanation": "'France': nước Pháp."
+  },
+  {
+    "id": "l4_c2_dt_1715",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "dt",
+    "topic": "Social DT 5",
+    "question": "Fill in the blank with ONE word: Mars is known as the _______ Planet.",
+    "answer": "Red",
+    "explanation": "'Red Planet': Hành tinh Đỏ."
+  },
+  {
+    "id": "l4_c2_dt_1716",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "dt",
+    "topic": "Social DT 6",
+    "question": "Fill in the blank with ONE word: The blue _______ is the largest animal on Earth.",
+    "answer": "whale",
+    "explanation": "'Blue whale': cá voi xanh."
+  },
+  {
+    "id": "l4_c2_dt_1717",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "dt",
+    "topic": "Social DT 7",
+    "question": "Fill in the blank with ONE word: Humans breathe in _______ to survive.",
+    "answer": "oxygen",
+    "explanation": "'oxygen': khí ô-xy."
+  },
+  {
+    "id": "l4_c2_dt_1718",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "dt",
+    "topic": "Social DT 8",
+    "question": "Fill in the blank with ONE word: The _______ is the main source of energy for the Earth.",
+    "answer": "Sun",
+    "explanation": "'The Sun': Mặt Trời."
+  },
+  {
+    "id": "l4_c2_dt_1719",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "dt",
+    "topic": "Social DT 9",
+    "question": "Fill in the blank with ONE word: _______ absorb water and minerals from the soil.",
+    "answer": "Roots",
+    "explanation": "'Roots': rễ cây."
+  },
+  {
+    "id": "l4_c2_dt_1720",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "dt",
+    "topic": "Social DT 10",
+    "question": "Fill in the blank with ONE word: There are _______ bones in the adult human body.",
+    "answer": "206",
+    "explanation": "'206' chiếc xương."
+  },
+  {
+    "id": "l4_c2_dt_1721",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "dt",
+    "topic": "Social DT 11",
+    "question": "Fill in the blank with ONE word: _______ is the closest planet to the Sun.",
+    "answer": "Mercury",
+    "explanation": "'Mercury': Sao Thủy."
+  },
+  {
+    "id": "l4_c2_dt_1722",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "dt",
+    "topic": "Social DT 12",
+    "question": "Fill in the blank with ONE word: The _______ pumps blood in the human body.",
+    "answer": "heart",
+    "explanation": "'heart': trái tim."
+  },
+  {
+    "id": "l4_c2_dt_1723",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "dt",
+    "topic": "Social DT 13",
+    "question": "Fill in the blank with ONE word: _______ is the largest organ in the human body.",
+    "answer": "Skin",
+    "explanation": "'Skin': da."
+  },
+  {
+    "id": "l4_c2_dt_1724",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "dt",
+    "topic": "Social DT 14",
+    "question": "Fill in the blank with ONE word: The movement of air around the Earth is called _______.",
+    "answer": "wind",
+    "explanation": "'wind': gió."
+  },
+  {
+    "id": "l4_c2_dt_1725",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "dt",
+    "topic": "Social DT 15",
+    "question": "Fill in the blank with ONE word: _______ is the capital of France.",
+    "answer": "Paris",
+    "explanation": "'Paris' là thủ đô nước Pháp."
+  },
+  {
+    "id": "l4_c2_dt_1726",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "dt",
+    "topic": "Social DT 16",
+    "question": "Fill in the blank with ONE word: The _______ Ocean is the largest ocean in the world.",
+    "answer": "Pacific",
+    "explanation": "'Pacific Ocean': Thái Bình Dương."
+  },
+  {
+    "id": "l4_c2_dt_1727",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "dt",
+    "topic": "Social DT 17",
+    "question": "Fill in the blank with ONE word: _______ is famous for its pyramids.",
+    "answer": "Egypt",
+    "explanation": "'Egypt': Ai Cập."
+  },
+  {
+    "id": "l4_c2_dt_1728",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "dt",
+    "topic": "Social DT 18",
+    "question": "Fill in the blank with ONE word: Kangaroos and koalas live in _______.",
+    "answer": "Australia",
+    "explanation": "'Australia': nước Úc."
+  },
+  {
+    "id": "l4_c2_dt_1729",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "dt",
+    "topic": "Social DT 19",
+    "question": "Fill in the blank with ONE word: The _______ River is the longest river in the world.",
+    "answer": "Nile",
+    "explanation": "'Nile River': sông Nile."
+  },
+  {
+    "id": "l4_c2_dt_1730",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "dt",
+    "topic": "Social DT 20",
+    "question": "Fill in the blank with ONE word: The _______ Desert is the largest hot desert in the world.",
+    "answer": "Sahara",
+    "explanation": "'Sahara Desert': sa mạc Sahara."
+  },
+  {
+    "id": "l4_c2_dt_1731",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "dt",
+    "topic": "Social DT 21",
+    "question": "Fill in the blank with ONE word: _______ is the capital of Japan.",
+    "answer": "Tokyo",
+    "explanation": "'Tokyo' là thủ đô Nhật Bản."
+  },
+  {
+    "id": "l4_c2_dt_1732",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "dt",
+    "topic": "Social DT 22",
+    "question": "Fill in the blank with ONE word: _______ City is the smallest country in the world.",
+    "answer": "Vatican",
+    "explanation": "'Vatican City': Thành Vatican."
+  },
+  {
+    "id": "l4_c2_dt_1733",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "dt",
+    "topic": "Social DT 23",
+    "question": "Fill in the blank with ONE word: _______ is the capital of Canada.",
+    "answer": "Ottawa",
+    "explanation": "'Ottawa' là thủ đô Canada."
+  },
+  {
+    "id": "l4_c2_dt_1734",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "dt",
+    "topic": "Social DT 24",
+    "question": "Fill in the blank with ONE word: _______ is the largest island in the world.",
+    "answer": "Greenland",
+    "explanation": "'Greenland'."
+  },
+  {
+    "id": "l4_c2_dt_1735",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "dt",
+    "topic": "Social DT 25",
+    "question": "Fill in the blank with ONE word: _______ is the hottest planet in our solar system.",
+    "answer": "Venus",
+    "explanation": "'Venus': Sao Kim."
+  },
+  {
+    "id": "l4_c2_dt_1736",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "dt",
+    "topic": "Social DT 26",
+    "question": "Fill in the blank with ONE word: The _______ controls thought, memory, and emotions.",
+    "answer": "brain",
+    "explanation": "'brain': não bộ."
+  },
+  {
+    "id": "l4_c2_dt_1737",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "dt",
+    "topic": "Social DT 27",
+    "question": "Fill in the blank with ONE word: Japan is known as the Land of the Rising _______.",
+    "answer": "Sun",
+    "explanation": "'Land of the Rising Sun'."
+  },
+  {
+    "id": "l4_c2_dt_1738",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "dt",
+    "topic": "Social DT 28",
+    "question": "Fill in the blank with ONE word: _______ is the capital of Italy.",
+    "answer": "Rome",
+    "explanation": "'Rome' là thủ đô nước Ý."
+  },
+  {
+    "id": "l4_c2_dt_1739",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "dt",
+    "topic": "Social DT 29",
+    "question": "Fill in the blank with ONE word: _______ is the capital city of Spain.",
+    "answer": "Madrid",
+    "explanation": "'Madrid' là thủ đô Tây Ban Nha."
+  },
+  {
+    "id": "l4_c2_dt_1740",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "dt",
+    "topic": "Social DT 30",
+    "question": "Fill in the blank with ONE word: Thomas Edison invented the light _______.",
+    "answer": "bulb",
+    "explanation": "'light bulb': bóng đèn."
+  },
+  {
+    "id": "l4_c2_dt_1741",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "dt",
+    "topic": "Social DT 31",
+    "question": "Fill in the blank with ONE word: _______ is the largest planet in our solar system.",
+    "answer": "Jupiter",
+    "explanation": "'Jupiter': Sao Mộc."
+  },
+  {
+    "id": "l4_c2_dt_1742",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "dt",
+    "topic": "Social DT 32",
+    "question": "Fill in the blank with ONE word: The _______ is the largest land animal in the world.",
+    "answer": "elephant",
+    "explanation": "'elephant': voi."
+  },
+  {
+    "id": "l4_c2_dt_1743",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "dt",
+    "topic": "Social DT 33",
+    "question": "Fill in the blank with ONE word: _______ is the capital city of the United Kingdom.",
+    "answer": "London",
+    "explanation": "'London' là thủ đô Vương quốc Anh."
+  },
+  {
+    "id": "l4_c2_dt_1744",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "dt",
+    "topic": "Social DT 34",
+    "question": "Fill in the blank with ONE word: Mount _______ is the highest mountain in the world.",
+    "answer": "Everest",
+    "explanation": "'Mount Everest'."
+  },
+  {
+    "id": "l4_c2_dt_1745",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "dt",
+    "topic": "Social DT 35",
+    "question": "Fill in the blank with ONE word: A _______ is known for its ability to change colors.",
+    "answer": "chameleon",
+    "explanation": "'chameleon': tắc kè hoa."
+  },
+  {
+    "id": "l4_c2_dt_1746",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "dt",
+    "topic": "Social DT 36",
+    "question": "Fill in the blank with ONE word: The _______ Ocean is the smallest ocean in the world.",
+    "answer": "Arctic",
+    "explanation": "'Arctic Ocean': Bắc Băng Dương."
+  },
+  {
+    "id": "l4_c2_dt_1747",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "dt",
+    "topic": "Social DT 37",
+    "question": "Fill in the blank with ONE word: During the Hung Kings period, Vietnam was named _______ Lang.",
+    "answer": "Văn",
+    "explanation": "'Văn Lang'."
+  },
+  {
+    "id": "l4_c2_dt_1748",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "dt",
+    "topic": "Social DT 38",
+    "question": "Fill in the blank with ONE word: During the Lý and Trần Dynasties, Vietnam was named Đại _______.",
+    "answer": "Việt",
+    "explanation": "'Đại Việt'."
+  },
+  {
+    "id": "l4_c2_dt_1749",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "dt",
+    "topic": "Social DT 39",
+    "question": "Fill in the blank with ONE word: Vietnam's Independence Day is on _______ 2nd.",
+    "answer": "September",
+    "explanation": "'September 2nd': ngày 2 tháng 9."
+  },
+  {
+    "id": "l4_c2_dt_1750",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "dt",
+    "topic": "Social DT 40",
+    "question": "Fill in the blank with ONE word: _______ Lake is located in the center of Hanoi.",
+    "answer": "Hoan Kiem",
+    "explanation": "'Hoan Kiem Lake': Hồ Hoàn Kiếm."
+  },
+  {
+    "id": "l4_c2_dt_1751",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "dt",
+    "topic": "Social DT 41",
+    "question": "Fill in the blank with ONE word: Thăng _______ is the old name of Hanoi.",
+    "answer": "Long",
+    "explanation": "'Thăng Long'."
+  },
+  {
+    "id": "l4_c2_dt_1752",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "dt",
+    "topic": "Social DT 42",
+    "question": "Fill in the blank with ONE word: _______ is the capital of South Korea.",
+    "answer": "Seoul",
+    "explanation": "'Seoul' là thủ đô Hàn Quốc."
+  },
+  {
+    "id": "l4_c2_dt_1753",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "dt",
+    "topic": "Social DT 43",
+    "question": "Fill in the blank with ONE word: _______ is the capital of Thailand.",
+    "answer": "Bangkok",
+    "explanation": "'Bangkok' là thủ đô Thái Lan."
+  },
+  {
+    "id": "l4_c2_dt_1754",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "dt",
+    "topic": "Social DT 44",
+    "question": "Fill in the blank with ONE word: _______ is the capital of Laos.",
+    "answer": "Vientiane",
+    "explanation": "'Vientiane' là thủ đô Lào."
+  },
+  {
+    "id": "l4_c2_dt_1755",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "dt",
+    "topic": "Social DT 45",
+    "question": "Fill in the blank with ONE word: There are _______-four hours in a day.",
+    "answer": "twenty",
+    "explanation": "'twenty-four': 24 giờ."
+  },
+  {
+    "id": "l4_c2_dt_1756",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "dt",
+    "topic": "Social DT 46",
+    "question": "Fill in the blank with ONE word: Panda's favourite food is _______.",
+    "answer": "bamboo",
+    "explanation": "'bamboo': tre/trúc."
+  },
+  {
+    "id": "l4_c2_dt_1757",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "dt",
+    "topic": "Social DT 47",
+    "question": "Fill in the blank with ONE word: Earth goes around the _______.",
+    "answer": "Sun",
+    "explanation": "'Earth goes around the Sun'."
+  },
+  {
+    "id": "l4_c2_dt_1758",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "dt",
+    "topic": "Social DT 48",
+    "question": "Fill in the blank with ONE word: The Sun always rises in the _______ and sets in the West.",
+    "answer": "East",
+    "explanation": "'in the East': ở hướng Đông."
+  },
+  {
+    "id": "l4_c2_dt_1759",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "dt",
+    "topic": "Social DT 49",
+    "question": "Fill in the blank with ONE word: In our country, coal is mostly in _______ Ninh Province.",
+    "answer": "Quang",
+    "explanation": "'Quang Ninh Province': tỉnh Quảng Ninh."
+  },
+  {
+    "id": "l4_c2_dt_1760",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "dt",
+    "topic": "Social DT 50",
+    "question": "Fill in the blank with ONE word: The double of ten is _______.",
+    "answer": "twenty",
+    "explanation": "'twenty': gấp đôi của 10 là 20."
+  },
+  {
+    "id": "l4_c2_sx_1761",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "sx",
+    "topic": "American Independence Day 4th July",
+    "question": "Arrange the given words to make a complete and correct sentence.",
+    "tokens": [
+      "is on",
+      "American Independence Day",
+      "of July.",
+      "the fourth"
+    ],
+    "answer": "American Independence Day is on the fourth of July.",
+    "explanation": "Quốc khánh Mỹ ngày 4/7."
+  },
+  {
+    "id": "l4_c2_sx_1762",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "sx",
+    "topic": "Twenty Four Hours Day",
+    "question": "Arrange the given words to make a complete and correct sentence.",
+    "tokens": [
+      "twenty-four",
+      "There are",
+      "in a day.",
+      "hours"
+    ],
+    "answer": "There are twenty-four hours in a day.",
+    "explanation": "Một ngày có 24 giờ."
+  },
+  {
+    "id": "l4_c2_sx_1763",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "sx",
+    "topic": "Delhi City In India",
+    "question": "Arrange the given words to make a complete and correct sentence.",
+    "tokens": [
+      "a city",
+      "Delhi is",
+      "India.",
+      "in"
+    ],
+    "answer": "Delhi is a city in India.",
+    "explanation": "Delhi là thành phố ở Ấn Độ."
+  },
+  {
+    "id": "l4_c2_sx_1764",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "sx",
+    "topic": "Chiang Rai City In Thailand",
+    "question": "Arrange the given words to make a complete and correct sentence.",
+    "tokens": [
+      "a city",
+      "Chiang Rai is",
+      "Thailand.",
+      "in"
+    ],
+    "answer": "Chiang Rai is a city in Thailand.",
+    "explanation": "Chiang Rai là thành phố ở Thái Lan."
+  },
+  {
+    "id": "l4_c2_sx_1765",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "sx",
+    "topic": "April Fools Day First April",
+    "question": "Arrange the given words to make a complete and correct sentence.",
+    "tokens": [
+      "is on",
+      "April Fool's Day",
+      "of April.",
+      "the first"
+    ],
+    "answer": "April Fool's Day is on the first of April.",
+    "explanation": "Ngày Cá tháng Tư là 1/4."
+  },
+  {
+    "id": "l4_c2_sx_1766",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "sx",
+    "topic": "Christmas Twenty-Fifth December",
+    "question": "Arrange the given words to make a complete and correct sentence.",
+    "tokens": [
+      "the festival on",
+      "Christmas is",
+      "of December.",
+      "the twenty-fifth"
+    ],
+    "answer": "Christmas is the festival on the twenty-fifth of December.",
+    "explanation": "Lễ Giáng sinh vào ngày 25/12."
+  },
+  {
+    "id": "l4_c2_sx_1767",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "sx",
+    "topic": "Kangaroo Australian National Animal",
+    "question": "Arrange the given words to make a complete and correct sentence.",
+    "tokens": [
+      "national animal.",
+      "Kangaroo is",
+      "the Australian"
+    ],
+    "answer": "Kangaroo is the Australian national animal.",
+    "explanation": "Chuột túi là biểu tượng động vật của Úc."
+  },
+  {
+    "id": "l4_c2_sx_1768",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "sx",
+    "topic": "Vietnamese Independence Day Sept 2",
+    "question": "Arrange the given words to make a complete and correct sentence.",
+    "tokens": [
+      "on the second",
+      "Vietnamese Independence Day is",
+      "September.",
+      "of"
+    ],
+    "answer": "Vietnamese Independence Day is on the second of September.",
+    "explanation": "Quốc khánh Việt Nam ngày 2/9."
+  },
+  {
+    "id": "l4_c2_sx_1769",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "sx",
+    "topic": "Earth Day Twenty-Second April",
+    "question": "Arrange the given words to make a complete and correct sentence.",
+    "tokens": [
+      "twenty-second of April",
+      "Earth Day is on the",
+      "every year."
+    ],
+    "answer": "Earth Day is on the twenty-second of April every year.",
+    "explanation": "Ngày Trái Đất vào 22/4 hằng năm."
+  },
+  {
+    "id": "l4_c2_sx_1770",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "sx",
+    "topic": "Carrots Lots Of Vitamin",
+    "question": "Arrange the given words to make a complete and correct sentence.",
+    "tokens": [
+      "a lot of",
+      "Carrots have",
+      "vitamins."
+    ],
+    "answer": "Carrots have a lot of vitamins.",
+    "explanation": "Cà rốt chứa nhiều vitamin."
+  },
+  {
+    "id": "l4_c2_sx_1771",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "sx",
+    "topic": "Korea Colder Than Indonesia",
+    "question": "Arrange the given words to make a complete and correct sentence.",
+    "tokens": [
+      "is colder",
+      "Korea",
+      "Indonesia.",
+      "than"
+    ],
+    "answer": "Korea is colder than Indonesia.",
+    "explanation": "Hàn Quốc lạnh hơn Indonesia."
+  },
+  {
+    "id": "l4_c2_sx_1772",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "sx",
+    "topic": "Vientiane Capital City Laos",
+    "question": "Arrange the given words to make a complete and correct sentence.",
+    "tokens": [
+      "capital city",
+      "Vientiane is the",
+      "Laos.",
+      "of"
+    ],
+    "answer": "Vientiane is the capital city of Laos.",
+    "explanation": "Viêng Chăn là thủ đô của Lào."
+  },
+  {
+    "id": "l4_c2_sx_1773",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "sx",
+    "topic": "Make Soymilk From Soybean",
+    "question": "Arrange the given words to make a complete and correct sentence.",
+    "tokens": [
+      "soymilk",
+      "They make",
+      "soybean.",
+      "from"
+    ],
+    "answer": "They make soymilk from soybean.",
+    "explanation": "Làm sữa đậu nành từ hạt đậu nành."
+  },
+  {
+    "id": "l4_c2_sx_1774",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "sx",
+    "topic": "Eiffel Tower Symbol France",
+    "question": "Arrange the given words to make a complete and correct sentence.",
+    "tokens": [
+      "a symbol",
+      "Eiffel Tower is",
+      "France.",
+      "of"
+    ],
+    "answer": "Eiffel Tower is a symbol of France.",
+    "explanation": "Tháp Eiffel là biểu tượng của nước Pháp."
+  },
+  {
+    "id": "l4_c2_sx_1775",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "sx",
+    "topic": "Earth Goes Around Sun",
+    "question": "Arrange the given words to make a complete and correct sentence.",
+    "tokens": [
+      "goes around",
+      "The Earth",
+      "Sun.",
+      "the"
+    ],
+    "answer": "The Earth goes around the Sun.",
+    "explanation": "Trái Đất quay quanh Mặt Trời."
+  },
+  {
+    "id": "l4_c2_sx_1776",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "sx",
+    "topic": "Panda Favourite Food Bamboo",
+    "question": "Arrange the given words to make a complete and correct sentence.",
+    "tokens": [
+      "favourite food",
+      "Panda's",
+      "bamboo.",
+      "is"
+    ],
+    "answer": "Panda's favourite food is bamboo.",
+    "explanation": "Thức ăn yêu thích của gấu trúc là tre trúc."
+  },
+  {
+    "id": "l4_c2_sx_1777",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "sx",
+    "topic": "Japanese Sushi Raw Fish Rice",
+    "question": "Arrange the given words to make a complete and correct sentence.",
+    "tokens": [
+      "make sushi",
+      "Japanese people",
+      "and rice.",
+      "from raw fish"
+    ],
+    "answer": "Japanese people make sushi from raw fish and rice.",
+    "explanation": "Người Nhật làm sushi từ cá sống và cơm."
+  },
+  {
+    "id": "l4_c2_sx_1778",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "sx",
+    "topic": "Sun Is Star In Sky",
+    "question": "Arrange the given words to make a complete and correct sentence.",
+    "tokens": [
+      "a star",
+      "The Sun is",
+      "sky.",
+      "in the"
+    ],
+    "answer": "The Sun is a star in the sky.",
+    "explanation": "Mặt Trời là một ngôi sao trên bầu trời."
+  },
+  {
+    "id": "l4_c2_sx_1779",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "sx",
+    "topic": "Sun Rises East Sets West",
+    "question": "Arrange the given words to make a complete and correct sentence.",
+    "tokens": [
+      "rises in the East",
+      "The Sun always",
+      "in the West.",
+      "and sets"
+    ],
+    "answer": "The Sun always rises in the East and sets in the West.",
+    "explanation": "Mặt Trời mọc đằng Đông và lặn đằng Tây."
+  },
+  {
+    "id": "l4_c2_sx_1780",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "sx",
+    "topic": "Coal Mostly In Quang Ninh",
+    "question": "Arrange the given words to make a complete and correct sentence.",
+    "tokens": [
+      "is mostly",
+      "In our country, coal",
+      "Province.",
+      "in Quang Ninh"
+    ],
+    "answer": "In our country, coal is mostly in Quang Ninh Province.",
+    "explanation": "Than đá nước ta tập trung nhiều ở Quảng Ninh."
+  },
+  {
+    "id": "l4_c2_sx_1781",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "sx",
+    "topic": "Temple Of Literature In Hanoi",
+    "question": "Arrange the given words to make a complete and correct sentence.",
+    "tokens": [
+      "of Literature",
+      "The Temple",
+      "Hanoi.",
+      "is in"
+    ],
+    "answer": "The Temple of Literature is in Hanoi.",
+    "explanation": "Văn Miếu nằm ở Hà Nội."
+  },
+  {
+    "id": "l4_c2_sx_1782",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "sx",
+    "topic": "Dove Symbol Happiness Peace",
+    "question": "Arrange the given words to make a complete and correct sentence.",
+    "tokens": [
+      "is a symbol",
+      "A dove",
+      "and peace.",
+      "of happiness"
+    ],
+    "answer": "A dove is a symbol of happiness and peace.",
+    "explanation": "Chim bồ câu là biểu tượng của hạnh phúc và hòa bình."
+  },
+  {
+    "id": "l4_c2_sx_1783",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "sx",
+    "topic": "Frogs Spawn In Spring",
+    "question": "Arrange the given words to make a complete and correct sentence.",
+    "tokens": [
+      "usually spawn",
+      "Frogs",
+      "spring.",
+      "in"
+    ],
+    "answer": "Frogs usually spawn in spring.",
+    "explanation": "Ếch thường đẻ trứng vào mùa xuân."
+  },
+  {
+    "id": "l4_c2_sx_1784",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "sx",
+    "topic": "Longest Structure In China",
+    "question": "Arrange the given words to make a complete and correct sentence.",
+    "tokens": [
+      "human-made structure",
+      "The longest",
+      "in China.",
+      "is"
+    ],
+    "answer": "The longest human-made structure is in China.",
+    "explanation": "Công trình nhân tạo dài nhất nằm ở Trung Quốc."
+  },
+  {
+    "id": "l4_c2_sx_1785",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "sx",
+    "topic": "Went To Noi Bai Airport",
+    "question": "Arrange the given words to make a complete and correct sentence.",
+    "tokens": [
+      "went to",
+      "She",
+      "this morning.",
+      "Noi Bai International Airport"
+    ],
+    "answer": "She went to Noi Bai International Airport this morning.",
+    "explanation": "Sáng nay cô ấy ra sân bay quốc tế Nội Bài."
+  },
+  {
+    "id": "l4_c2_sx_1786",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "sx",
+    "topic": "School Begins In September Britain",
+    "question": "Arrange the given words to make a complete and correct sentence.",
+    "tokens": [
+      "always begins",
+      "In Britain, school",
+      "September.",
+      "in"
+    ],
+    "answer": "In Britain, school always begins in September.",
+    "explanation": "Ở Anh, năm học luôn bắt đầu vào tháng Chín."
+  },
+  {
+    "id": "l4_c2_sx_1787",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "sx",
+    "topic": "Eiffel Tower In Paris France",
+    "question": "Arrange the given words to make a complete and correct sentence.",
+    "tokens": [
+      "is in",
+      "Eiffel Tower",
+      "France.",
+      "Paris,"
+    ],
+    "answer": "Eiffel Tower is in Paris, France.",
+    "explanation": "Tháp Eiffel ở Paris, Pháp."
+  },
+  {
+    "id": "l4_c2_sx_1788",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "sx",
+    "topic": "Ho Chi Minh Born May 19 1890",
+    "question": "Arrange the given words to make a complete and correct sentence.",
+    "tokens": [
+      "was born on",
+      "President Ho Chi Minh",
+      "1890.",
+      "May 19,"
+    ],
+    "answer": "President Ho Chi Minh was born on May 19, 1890.",
+    "explanation": "Chủ tịch Hồ Chí Minh sinh ngày 19/5/1890."
+  },
+  {
+    "id": "l4_c2_sx_1789",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "sx",
+    "topic": "Landmark 81 Highest Tower",
+    "question": "Arrange the given words to make a complete and correct sentence.",
+    "tokens": [
+      "the highest",
+      "Landmark 81 is",
+      "in Viet Nam.",
+      "tower"
+    ],
+    "answer": "Landmark 81 is the highest tower in Viet Nam.",
+    "explanation": "Landmark 81 là tòa tháp cao nhất Việt Nam."
+  },
+  {
+    "id": "l4_c2_sx_1790",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "sx",
+    "topic": "Mars Fourth Planet From Sun",
+    "question": "Arrange the given words to make a complete and correct sentence.",
+    "tokens": [
+      "the fourth planet",
+      "Mars is",
+      "in our solar system.",
+      "from the Sun"
+    ],
+    "answer": "Mars is the fourth planet from the Sun in our solar system.",
+    "explanation": "Sao Hỏa là hành tinh thứ tư tính từ Mặt Trời."
+  },
+  {
+    "id": "l4_c2_sx_1791",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "sx",
+    "topic": "Double Of Ten Is Twenty",
+    "question": "Arrange the given words to make a complete and correct sentence.",
+    "tokens": [
+      "of ten",
+      "The double",
+      "twenty.",
+      "is"
+    ],
+    "answer": "The double of ten is twenty.",
+    "explanation": "Gấp đôi của 10 là 20."
+  },
+  {
+    "id": "l4_c2_sx_1792",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "sx",
+    "topic": "Bac Ninh Smaller Thai Nguyen",
+    "question": "Arrange the given words to make a complete and correct sentence.",
+    "tokens": [
+      "is smaller",
+      "Bac Ninh Province",
+      "Thai Nguyen Province.",
+      "than"
+    ],
+    "answer": "Bac Ninh Province is smaller than Thai Nguyen Province.",
+    "explanation": "Tỉnh Bắc Ninh nhỏ hơn tỉnh Thái Nguyên."
+  },
+  {
+    "id": "l4_c2_sx_1793",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "sx",
+    "topic": "George Washington First President",
+    "question": "Arrange the given words to make a complete and correct sentence.",
+    "tokens": [
+      "the first",
+      "George Washington was",
+      "of the United States.",
+      "president"
+    ],
+    "answer": "George Washington was the first president of the United States.",
+    "explanation": "George Washington là tổng thống đầu tiên của Mỹ."
+  },
+  {
+    "id": "l4_c2_sx_1794",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "sx",
+    "topic": "Mars Known As Red Planet",
+    "question": "Arrange the given words to make a complete and correct sentence.",
+    "tokens": [
+      "known as",
+      "Mars is",
+      "Planet.",
+      "the Red"
+    ],
+    "answer": "Mars is known as the Red Planet.",
+    "explanation": "Sao Hỏa được biết đến là Hành tinh Đỏ."
+  },
+  {
+    "id": "l4_c2_sx_1795",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "sx",
+    "topic": "Blue Whale Largest Animal",
+    "question": "Arrange the given words to make a complete and correct sentence.",
+    "tokens": [
+      "the largest",
+      "The blue whale is",
+      "on Earth.",
+      "animal"
+    ],
+    "answer": "The blue whale is the largest animal on Earth.",
+    "explanation": "Cá voi xanh là động vật lớn nhất Trái Đất."
+  },
+  {
+    "id": "l4_c2_sx_1796",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "sx",
+    "topic": "Pacific Ocean Largest World",
+    "question": "Arrange the given words to make a complete and correct sentence.",
+    "tokens": [
+      "the largest",
+      "The Pacific Ocean is",
+      "in the world.",
+      "ocean"
+    ],
+    "answer": "The Pacific Ocean is the largest ocean in the world.",
+    "explanation": "Thái Bình Dương là đại dương lớn nhất thế giới."
+  },
+  {
+    "id": "l4_c2_sx_1797",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "sx",
+    "topic": "Nile River Longest World",
+    "question": "Arrange the given words to make a complete and correct sentence.",
+    "tokens": [
+      "the longest",
+      "The Nile River is",
+      "in the world.",
+      "river"
+    ],
+    "answer": "The Nile River is the longest river in the world.",
+    "explanation": "Sông Nile là con sông dài nhất thế giới."
+  },
+  {
+    "id": "l4_c2_sx_1798",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "sx",
+    "topic": "Vatican City Smallest Country",
+    "question": "Arrange the given words to make a complete and correct sentence.",
+    "tokens": [
+      "the smallest",
+      "Vatican City is",
+      "in the world.",
+      "country"
+    ],
+    "answer": "Vatican City is the smallest country in the world.",
+    "explanation": "Thành Vatican là quốc gia nhỏ nhất thế giới."
+  },
+  {
+    "id": "l4_c2_sx_1799",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "sx",
+    "topic": "Mount Everest Highest Mountain",
+    "question": "Arrange the given words to make a complete and correct sentence.",
+    "tokens": [
+      "the highest",
+      "Mount Everest is",
+      "in the world.",
+      "mountain"
+    ],
+    "answer": "Mount Everest is the highest mountain in the world.",
+    "explanation": "Đỉnh Everest là ngọn núi cao nhất thế giới."
+  },
+  {
+    "id": "l4_c2_sx_1800",
+    "grade": 4,
+    "round": 2,
+    "round_name": "School Round",
+    "type": "sx",
+    "topic": "Hoan Kiem Lake Center Hanoi",
+    "question": "Arrange the given words to make a complete and correct sentence.",
+    "tokens": [
+      "is located",
+      "Hoan Kiem Lake",
+      "of Hanoi.",
+      "in the center"
+    ],
+    "answer": "Hoan Kiem Lake is located in the center of Hanoi.",
+    "explanation": "Hồ Hoàn Kiếm nằm ở trung tâm Hà Nội."
   }
 ]
